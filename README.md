@@ -1,5 +1,5 @@
 # Crossword dataset
-This is manually curated dataset of \~35,000 words and phrases that I have deemed suitable as entries for (American) word puzzles, primarily American-style crosswords. All entries are contained in a single alphabetized .txt file, with each entry occupying a separate line. I have left original punctuation in the entries if possible, for better human readability; standardization of the entries and further sorting is left to the user.
+This is **manually curated** dataset of \~35,000 words and phrases that I have deemed suitable as entries for (American) word puzzles, primarily American-style crosswords. All entries are contained in a single alphabetized .txt file, with each entry occupying a separate line. I have left original punctuation in the entries if possible, for better human readability; standardization of the entries and further sorting is left to the user.
 
 Any entry is included only if (1) it is commonly used in everyday American English, and (2) it can stand alone as a non-awkward crossword entry. This dataset includes nouns, adjectives, verbs; it contains few gerunds, adverbs, and proper nouns. It also includes short phrases, idioms, and sets of words that often go together (i.e. "school night", "secret santa", "ride shotgun", etc.) See the "Rules for inclusion" section for more details about how I decided whether an entry should belong. See "Curation process" for where I curated these entries from.
 
@@ -41,7 +41,7 @@ There might be entries that I've accidentally included that don't adhere to my o
 
 ## Curation process
 * I started by manually filtering all \~147k lemmas in [WordNet](https://wordnet.princeton.edu/), which took me about a month. In the end, about 21% I deemed good enough to include in this dataset. 
-* I began filtering words from Peter Broda's dataset, which presents another \~320k unique entries after removing any words I've already looked at, and words with scores less than 50 (i.e. keeping only words that have been deemed above a certain level of quality, or are unscored.) I'm finding that the dataset is by and large not very good, so I probably won't be finishing sifting through the Broda dataset anytime soon.
+* I began filtering words from the [Broda wordlist](https://peterbroda.me/crosswords/wordlist/), which presents another \~320k unique entries after removing any words I've already looked at, and words with scores less than 50 (i.e. keeping only words that have been deemed above a certain level of quality, or are unscored.) I'm finding that the dataset is mostly not what I'm looking for, so I probably won't be finishing sifting through the Broda wordlist anytime soon.
 * I've also manually scraped relevant words & phrases from "[Updates to the OED](https://public.oed.com/updates/)" pages to obtain "fresh" entries.
 * I've copied a few vocab lists from ESL sites. 
 * [Desi Quintas](http://www.desiquintans.com/nounlist) has a hand-curated plain.txt list of 6801 common nouns in English; his curation criteria aligns really well with what makes a good crossword entry. I've gone through and removed British-English and words I don't like, resulting in \~6250 words. This added maybe another \~1000 entries unique from WordNet and some other filtered words I had at the time.
@@ -50,7 +50,15 @@ There might be entries that I've accidentally included that don't adhere to my o
 * TODO: Re-go through Broda lists, oed_updates, earlier wordnet lists.
 * I've also added any random words/phrases that came to me, or that I encounter in daily life that I thought would make a good entry.
 
-I thought about adding syntactic/semantic tags to entries, and possibly putting them in a database, although that won't happen without other people to help :wink:. But I'm also not convinced that this will provide much more benefit relative to the effort this would require, so I'm not planning to do this any time soon.
+I thought about adding syntactic/semantic tags to entries, and possibly putting them in a database, although that won't happen without other people to help :wink:. On the other hand, I'm also not convinced that this will provide much more benefit relative to the effort this would require, so I'm not planning to do this any time soon.
 
 ## Citation
-If you find this dataset useful, please cite it.
+If you find this dataset useful, I would appreciate if you acknowledged it! If you use this dataset for an academic publication, here is a BibTex entry:
+```
+@misc{crossword-dataset,
+	title = {crossword-dataset},
+	author = {Nicole Feng},
+	note = {https://github.com/nzfeng/crossword-dataset},
+	year = {2022}
+}
+```
