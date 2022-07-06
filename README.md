@@ -25,7 +25,7 @@ What makes a "good" wordlist is kind of subjective. Personally, I wanted to make
 * If there are words with multiple derivatives and one is definitely used more often than the others, only include the commonly-used one. Ex. FIREWORKS vs. FIREWORK, VAGARIES vs. VAGARY.
 * For nouns, avoid gerunds (words that end in "-ing"), and words that end in "-ness", "-tion", "-ment", or "-ism". A lot of these words are in the category of "words that are technically English words but no one uses them." Only include these types of words if they are commonly used in everyday language.
 * Similarly, avoid nouns that end in "-er" that mean "someone who does X", and aren't really used in everyday language. Ex: ADVANCER, etc. Only include if they are common words or refer to commonly-known roles, ex. USER, COMPOSER.
-* Try not to include words/phrases that, although they are commonly used, make for boring entries. This is somewhat subjective, especially since boringness also depends on the cluing. But some examples of what not to include are legal terms and phrases, and other dry phrases pertaining to specific fields, government, bureaucracy, banking, or societal minutiae.
+* Try not to include words/phrases that, although they are commonly used, make for boring entries. This is somewhat subjective, especially since boringness also depends on the cluing. But some examples of what not to include are legal terms and phrases, and other dry phrases pertaining to specific fields, government, bureaucracy, banking, and other societal minutiae.
 * Don't include full phrases if their abbreviations are more commonly used, i.e. "magnetic resonance imaging" for MRI. The former would be a boring entry; if entries are going to be long, they should be exciting.
 * Avoid phrases that depend on too many prepositions or conjunctions ("and", "of", "for", etc.) For shorter entries, aim to have zero "extra filler words". 
 * For shorter entries, avoid two-word phrases, especially if one of the words is a preposition (ASK_IN, etc.) Only include multi-word phrases if they really do "come as a set", i.e. "BACK_OUT". For long entries, avoid phrases with more than 3 words.
@@ -33,7 +33,7 @@ What makes a "good" wordlist is kind of subjective. Personally, I wanted to make
 * Don't include words that have negative prefixes like "un-", "dis-", etc. unless they are just as commonly used as their positive counterpart (if not more common), and come with their own connotations and usage patterns. I.e., if you look the word up in the dictionary and it's simply defined as the negation of something, don't include it.
 <!--* Similarly, try not to include words whose meanings are too evident from their components, such as "southbound." It would be hard to come up with clues. -->
 * **No British English**, or non-English entries except for common phrases ("vice versa", etc.) When puzzles rely on other languages, dialects, or variant spellings, it feels cheap.
-* **No offensive**, insensitive, or particularly unpleasant entries. No entries relating to warfare, violence, weapons, chemical agents that have been been used in war, etc. Avoid "gross" entries pertaining to bodily fluids, bodily functions, crimes, abuse, etc. No entries with negative connotations or may be triggering (i.e. RACISM, WHITE_SUPREMACY, MANIFEST_DESTINY, SUICIDE, etc.) Even if their clues are benign, or they have alternate definitions which are benign (like SUICIDE), the topics that these entries are related to when taken at face-value don't deserve visibility in crossword puzzles. 
+* **No offensive**, insensitive, or particularly unpleasant entries. No entries relating to warfare, violence, weapons, chemical agents that have been been used in war, etc. Avoid "gross" entries pertaining to bodily fluids, bodily functions, crimes, abuse, etc. No entries with negative connotations or may be triggering (i.e. RACISM, MANIFEST_DESTINY, SUICIDE, etc.) Even if their clues are benign, or they have alternate definitions which are benign (like SUICIDE), the topics that these entries are related to when taken at face-value don't deserve visibility in crossword puzzles. 
 * Avoid places, except for maybe iconic American places. Good rule of thumb is whether this location would be known to a non-American.
 * Most of these rules basically just boil down to "Only include commonly-used words." Really try to only include entries that are commonly used, roll off the tongue, can be standalone entries, encourage lively clues, and so on.
 
@@ -56,9 +56,9 @@ I thought about adding syntactic/semantic tags to entries, and possibly putting 
 If you find this dataset useful, I would appreciate if you acknowledged it! If you use this dataset for an academic publication, here is a BibTex entry:
 ```
 @misc{crossword-dataset,
-	title = {crossword-dataset},
-	author = {Nicole Feng},
-	note = {https://github.com/nzfeng/crossword-dataset},
-	year = {2022}
+  title = {crossword-dataset},
+  author = {Nicole Feng},
+  note = {https://github.com/nzfeng/crossword-dataset},
+  year = {2022}
 }
 ```
