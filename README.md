@@ -5,6 +5,8 @@ This is **manually curated** dataset of \~35,000 words and phrases in **American
 
 Any entry is included only if (1) it is commonly used in everyday American English, and (2) it can stand alone as a non-awkward crossword entry. This dataset includes nouns, adjectives, verbs; it contains few gerunds, adverbs, and proper nouns. It also includes short phrases, idioms, and sets of words that often go together (i.e. "school night", "secret santa", "ride shotgun", etc.) See the "Rules for inclusion" section for more details about how I decided whether an entry should belong. See "Curation process" for where I curated these entries from.
 
+TODO: Add scripts for sorting and removing duplicates
+
 This dataset is used in my open-source [MsFit]() crossword construction software. Feel free to use this dataset for your own project; if for an academic publication, a BibTex entry is at the bottom of the README.
 
 ## Motivation
