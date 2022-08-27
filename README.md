@@ -1,5 +1,3 @@
-left off at "trance"
-
 TODO: separate culture words from main list
 
 # Crossword dataset
