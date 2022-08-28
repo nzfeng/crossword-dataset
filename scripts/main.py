@@ -8,8 +8,10 @@ def main(filepath):
 	dedupAndSort(filepath)
 
 if __name__=="__main__":
-	parser = argparse.ArgumentParser(description='De-duplicate and alphabetize word list.')
-	parser.add_argument('filepath', type=str, help='Filepath to input .txt file.')
+	# parser = argparse.ArgumentParser(description='De-duplicate and alphabetize word list.')
+	# parser.add_argument('filepath', type=str, help='Filepath to input .txt file.')
 
-	args = parser.parse_args()
-	main(args.filepath)
+	# args = parser.parse_args()
+	# main(args.filepath)
+
+	saveMsFitWordlists()

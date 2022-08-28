@@ -132,6 +132,48 @@ def readEntries(filepath):
 	return words
 
 
+def saveMsFitWordlists():
+	'''
+	This is a MsFit-specific function.
+	Outputs the .txt files for MsFit, separated by wordlength and in standardized form.
+	'''
+	files = glob.glob('../*.txt', recursive = True)
+
+	all_words = []
+	for file in files:
+		f = open(file, 'r')
+		lines = f.read().splitlines() 
+		f.close()
+		all_words += lines
+
+	print("Total number of words: %d" %len(all_words))
+
+	all_words = [depunctuate(word).upper() for word in all_words]
+	all_words = [word for word in all_words if len(word) >= 3]
+	all_words = set(all_words)
+	print("Number of unique words: %d" %len(all_words))
+
+	# No categories for now. Just sort by wordlength.
+	wordLengths = [len(word) for word in all_words]
+	minLength = min(wordLengths)
+	maxLength = max(wordLengths)
+	print("min length: %d\t max length: %d" %(minLength,maxLength))
+
+	for i in range(minLength,maxLength+1):
+		n = len([word for word in all_words if len(word)==i])
+		print("# of words of length %d: %d" %(i, n))
+
+	# Save words.
+	for i in range(minLength, maxLength+1):
+		filename = "../words_%d.txt" %i
+		words = [word for word in all_words if len(word)==i]
+
+		with open(filename, 'w') as f:
+			for word in words:
+				f.write(word)
+				f.write("\n")
+
+
 ##### Clean word lists.
 
 def dedupAndSort(filepath):
