@@ -139,17 +139,22 @@ def dedupAndSort(filepath):
 	Read in the given .txt file; 
 	De-duplicate entries, and write an alphabetized copy of the file.
 	'''
+
 	entries = readEntries(filepath)
-	entries = removeDuplicates(entries)
-	entries = [word for word in entries if len(word) >= 3]
-	entries = sorted(entries) # alphabetical
+	# Build map from standardized versions of entries to the original entries.
+	(wordMap, stdList) = buildStandardizedDictAndWordlist(entries)
+	# Remove duplicates.
+	stdList = set(stdList)
+	stdList = sorted(stdList) # alphabetized
 
 	# Get file extension.
 	splitPath = os.path.splitext(filepath)
 	ext = splitPath[1]
-	copyPath = splitPath[0] + "_copy" + ext
+	copyPath = splitPath[0] + "_sorted" + ext
 
 	# Write to new file.
 	with open(copyPath, 'w') as f:
-		for word in entries:
-			f.write("%s\n" %word)
+		for word in stdList:
+			if (len(word) >= 3):
+				f.write(wordMap[word]) # write original entry
+				f.write("\n")

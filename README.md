@@ -1,5 +1,4 @@
-TODO: separate culture words from main list
-TODO: Add scripts for sorting and removing duplicates
+TODO: Adding missing plurals: left off at "age-appropriate"
 
 # Crossword dataset
 This is **manually curated** dataset of \~35,000 words and phrases in **American English** that I have deemed suitable as entries for (American) word puzzles, primarily American-style crosswords. All entries are contained in a single alphabetized .txt file, with each entry occupying a separate line. I have left original punctuation in the entries if possible, for better human readability; standardization of the entries and further sorting is left to the user. A few Python scripts for standardization/sorting are located in `scripts`.
@@ -7,6 +6,8 @@ This is **manually curated** dataset of \~35,000 words and phrases in **American
 Any entry is included only if (1) it is commonly used in everyday American English, and (2) it can stand alone as a non-awkward crossword entry. This dataset includes nouns, adjectives, verbs; it contains few gerunds, adverbs, and proper nouns. It also includes short phrases, idioms, and sets of words that often go together (i.e. "school night", "secret santa", "ride shotgun", etc.) See the "Rules for inclusion" section for more details about how I decided whether an entry should belong. See "Curation process" for where I curated these entries from.
 
 This dataset is used in my open-source [MsFit]() crossword construction software. Feel free to use this dataset for your own project; if for an academic publication, a BibTex entry is at the bottom of the README.
+
+In addition to the main word list `core.txt`, I've also started keeping track of an auxiliary word list `contemporary.txt` that indicates entries that are more likely to be "temporary" rather than core crossword entries: slang, brand names, app names, product names, popular media, etc. 
 
 ## Motivation
 I wanted to make crossword puzzles that fit my standards. I quickly realized that the main challenge of crossword construction, at any level of algorithmic involvement, is having a good bank of words to choose from. <!-- Most of the demand for human crossword constructors, after supplying any theme entries, seems to just be guiding construction towards having quality fills.-->
@@ -53,6 +54,7 @@ There might be entries that I've accidentally included that don't adhere to my o
 * At this stage, I manually went through the entire list of entries I had at this point, again -- to remove bad entries I had missed the first time around, and to add compelling derivatives and phrases based on the entries I had collected. Especially with less free time around this time, this step took another 2 months or so.
 * TODO: Re-go through Broda lists, oed_updates, earlier wordnet lists.
 * I've also added any random words/phrases that came to me, or that I encounter in daily life that I thought would make a good entry.
+* TODO: Missed a lot of plurals in the earlier parts of the main list
 
 I thought about adding syntactic/semantic tags to entries, and possibly putting them in a database, although that won't happen without other people to help :wink:. On the other hand, I'm also not convinced that this will provide much more benefit relative to the effort this would require, so I'm not planning to do this any time soon.
 
