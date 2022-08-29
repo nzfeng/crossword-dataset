@@ -705,6 +705,7 @@ airbrush
 airbrushes
 airbrushed
 air_bubble
+air_bubbles
 airbus
 air-conditioned
 air_conditioner
@@ -718,7 +719,6 @@ air_flow
 airfoil
 air_force
 air_freshener
-air_fryer
 air_guitar
 air_hockey
 airhorn
@@ -1027,6 +1027,9 @@ amortized
 amount
 amounts
 amounted
+amount_to
+amounts_to
+amounted_to
 amp
 amps
 ampersand
@@ -1423,6 +1426,8 @@ arboretum
 arborist
 arc
 arcade
+arcade_game
+arcade_games
 arcana
 arcane
 arch
@@ -1760,6 +1765,9 @@ at_bay
 at_best
 A-team
 ate_crow
+ate_in
+ate_out
+eat_out
 at_fault
 first_sight
 full speed
@@ -2591,7 +2599,7 @@ battlefield
 battle_formation
 battleground
 battle_plan
-battle_royal
+battle_royale
 battleship
 bauble
 baubles
@@ -3921,11 +3929,13 @@ boxing_ring
 box_office
 box_out
 box_seat
+box_seats
 box_spring
 boxy
 boy
 boys
 boy_band
+boy_bands
 boycott
 boycotts
 boycotted
@@ -4067,6 +4077,8 @@ broke
 break_away
 breaks_away
 broke_away
+icebreaker
+icebreakers
 breakdance
 breakdancer
 break_dancing
@@ -5013,6 +5025,7 @@ captors
 capture
 captures
 captured
+capture_the_flag
 Capuchin
 car
 cars
@@ -5607,6 +5620,7 @@ chatbot
 chatbots
 chateau
 chatroom
+chatrooms
 chatter
 chatters
 chattered
@@ -5615,6 +5629,8 @@ chattering
 chatty
 chat_up
 chauffeur
+chauffeurs
+chauffeured
 chauvinistic
 cheap
 cheapen
@@ -5624,6 +5640,7 @@ cheat
 cheats
 cheated
 cheater
+cheaters
 cheating
 check
 checks
@@ -5638,6 +5655,7 @@ checks-in
 checked-in
 checking
 checklist
+checklists
 checkbox
 checkboxes
 check_mark
@@ -5649,6 +5667,7 @@ checkout_line
 checkout_time
 check_over
 checkpoint
+checkpoints
 checksum
 checkup
 cheddar
@@ -5671,15 +5690,18 @@ cheery
 cheese
 cheeses
 cheeseburger
+cheeseburgers
 cheesecake
 cheesecloth
 cheese_pizza
 cheesy
 cheetah
+cheetahs
 chef
 chef's hat
 chemical
 chemist
+chemists
 chemistry
 cherish
 cherishes
@@ -5687,15 +5709,18 @@ cherished
 cherry
 cherries
 cherry_tomato
+cherry_tomatoes
 cherub
 cherubic
 chess
 chess_board
+chess_boards
 chess_club
 chess_game
 chess_match
 chess_move
 chess_piece
+chess_pieces
 chess_set
 chest
 chestnut
@@ -5744,8 +5769,10 @@ chief
 chief_justice
 chiefly
 chieftain
+chieftains
 chiffon
-Chihuahua
+chihuahua
+chihuahuas
 child
 children
 lemon_curd
@@ -5766,8 +5793,10 @@ childproof
 childrearing
 children
 children's book
+children's books
 chili
 chili_dog
+chili_dogs
 chill
 chills
 chilled
@@ -5787,9 +5816,11 @@ chimneysweep
 chimp
 chimps
 chimpanzee
+chimpanzees
 chin
 china
 chinchilla
+chinchillas
 chino
 chinos
 chin_rest
@@ -5834,11 +5865,14 @@ chlorophyll
 chock-full
 chocolate
 chocolate_bar
+chocolate_bars
 chocolate bunny
 chocolate_cake
 chocolate_chip_cookie
+chocolate_chip_cookies
 chocolate-coated
 chocolate_eclair
+chocolate_eclairs
 chocolate egg
 chocolate eggs
 chocolate factory
@@ -5851,6 +5885,7 @@ chocolate_pudding
 chocolates
 chocolate_syrup
 chocolate_truffle
+chocolate_truffles
 choice
 choices
 choir
@@ -9185,6 +9220,7 @@ developed
 developer
 developing
 development
+development_hell
 deviate
 deviates
 deviated
@@ -9348,6 +9384,7 @@ digital nomad
 digital wallet
 digital_watch
 virtual assistant
+virtual_reality
 digitize
 digitizes
 digitized
@@ -9899,6 +9936,8 @@ dodging
 doe
 doer
 does
+don't
+doesn't
 dog
 dog_biscuit
 dog_collar
@@ -10391,6 +10430,7 @@ drunk
 drunkard
 drunken
 dry
+dryly
 dry_clean
 dry-cleaned
 dry_cleaner
@@ -10632,6 +10672,7 @@ eating_utensil
 eating_utensils
 eat_into
 eat_out
+eats_out
 eats
 eaves
 eavesdrop
@@ -10803,6 +10844,7 @@ electric_heater
 electrician
 electricity
 electric_shock
+electric_toothbrush
 electrify
 electrified
 electrifying
@@ -11389,6 +11431,7 @@ erected
 ergo
 ergonomics
 Erie_Canal
+Erie
 erode
 eroded
 erodes
@@ -11421,6 +11464,7 @@ escalates
 escalator
 escalators
 escapade
+escapades
 escape
 escaped
 escape_hatch
@@ -11957,6 +12001,7 @@ fabricated
 fabrication
 fabulous
 facade
+facades
 face
 faced
 faces
@@ -11965,11 +12010,19 @@ facelift
 face_mask
 face_off
 save_face
+face_card
+face_cards
+face_plant
+face_plants
+face_planted
 facet
 facets
 faceted
 face_time
 facetious
+face-off
+faced_off
+faces_off
 face-to-face
 face_value
 face-up
@@ -12669,6 +12722,7 @@ fireworks
 firing
 firm
 stand_firm
+stand_mixer
 firm_up
 firmed_up
 firmware
@@ -13160,6 +13214,7 @@ food_desert
 food_fight
 food_for_thought
 foodie
+foodies
 food_poisoning
 food_processor
 food_pyramid
@@ -13409,6 +13464,7 @@ frail
 frame
 frames
 framed
+framerate
 framework
 franchise
 frank
@@ -13581,6 +13637,7 @@ front_desk
 front_door
 front_end
 frontier
+front_lawn
 front_line
 front-load
 front-loaded
@@ -13813,6 +13870,10 @@ game
 game day
 gamelan
 game_plan
+game_engine
+game_design
+game_over
+gameplay
 game point
 gamer
 gamers
@@ -14367,6 +14428,8 @@ goblins
 gobsmacked
 gobstopper
 go_by
+goes_by
+went_by
 go-kart
 gochujang
 god
@@ -15402,6 +15465,7 @@ headroom
 headscarf
 headset
 headshot
+headshots
 head space
 headstand
 headstart
@@ -15680,6 +15744,7 @@ lowbrow
 high_chair
 high-end
 higher
+higher_education
 higher learning
 higher-up
 higher-ups
@@ -15724,6 +15789,9 @@ highschool
 high_schooler
 high school sweetheart
 high_society
+high-speed
+high-speed_rail
+high-speed_Internet
 high-stakes
 high-strung
 hightail
@@ -17470,8 +17538,12 @@ international_flight
 Internet
 Internet browser
 internet browsers
-browser_war
 Internet forum
+Internet forums
+online_forum
+online_forums
+message_board
+message_boards
 Internet of things
 internship
 interplay
@@ -17679,6 +17751,7 @@ iron
 irons
 ironclad
 ironed
+Iron_Curtain
 iron_filings
 iron_fist
 ironing
@@ -17762,6 +17835,7 @@ ivied
 ivory
 ivory_tower
 ivy
+kvetch
 jab
 jabbed
 jabber
@@ -19710,6 +19784,7 @@ lucked_out
 lucky
 lucky_break
 lucrative
+lucre
 Luddite
 ludicrous
 lug
@@ -20342,6 +20417,8 @@ max
 maxes
 maxed
 maxed_out
+maxes_out
+max_out
 maxim
 maximize
 maximizes
@@ -21433,6 +21510,7 @@ mosey
 mosh
 moshes
 moshed
+mosh_pit
 mosque
 mosquito
 mosquitoes
@@ -21469,6 +21547,7 @@ motions
 motioned
 motionless
 motion_picture
+motion_sickness
 motivate
 motivates
 motivated
@@ -21657,6 +21736,7 @@ multiracial
 multistage
 multitude
 multivitamin
+multiplayer
 mum
 mumble
 mumbles
@@ -25552,6 +25632,7 @@ popcorn_ball
 popcorn_balls
 popcorn_machine
 Pope
+pop_art
 pop_fly
 pop_group
 poplar
@@ -26831,6 +26912,7 @@ pumpkins
 pumpkin_pie
 pumpkin_seed
 pumpkin_seeds
+pumpkin_patch
 pun
 puns
 punny
@@ -27396,6 +27478,8 @@ rain_forests
 raining
 rainmaker
 rain_on
+rains_on
+rained_on
 rains
 rainwater
 rainy
@@ -27498,6 +27582,7 @@ ranted
 rap
 raps
 rapped
+rap_group
 rap_battle
 rapid
 rapids
@@ -28273,6 +28358,8 @@ remaining
 remains
 remake
 remakes
+remaster
+remastered
 remark
 remarks
 remarked
@@ -30308,6 +30395,8 @@ seasoned
 seasoning
 season_ticket
 season_tickets
+season_pass
+season_passes
 sea_star
 sea_stars
 seat
@@ -31689,6 +31778,7 @@ skimps
 skimped
 skimpy
 skin
+skin-deep
 skin_care
 skincare_routine
 skin_cell
@@ -33731,7 +33821,9 @@ high_heaven
 stinking
 stinky
 stint
+stints
 stipend
+stipends
 stipple
 stipples
 stippled
@@ -33739,6 +33831,7 @@ stipulate
 stipulates
 stipulated
 stipulation
+stipulations
 stir
 stirs
 stir-fried
@@ -33750,6 +33843,8 @@ stirring
 stirrup
 stirrups
 stir_the_pot
+stirs_the_pot
+stirred_the_pot
 stir_up
 stitch
 stitches
@@ -36432,6 +36527,7 @@ throws_up
 threw_up
 throwdown
 thru
+thrum
 thrush
 thrust
 thrusts
@@ -36966,6 +37062,8 @@ tottering
 toucan
 toucans
 touch
+touchscreen
+touchscreens
 touch-and-go
 touch_base
 touchdown
@@ -38017,6 +38115,7 @@ unchecked
 uncivilized
 unclaimed
 uncle
+uncles
 unclean
 unclear
 unclog
@@ -38350,6 +38449,7 @@ unmanned
 unmarked
 unmarried
 limited_edition
+unmet
 unmask
 unmasked
 unmatched
@@ -38840,6 +38940,7 @@ vantage
 vantage_point
 vapid
 vapor
+vaporware
 vaporize
 vaporizes
 vaporized
@@ -40941,3 +41042,41 @@ zoot
 zoot_suit
 zucchini
 zygote
+rice_cooker
+food_processor
+electric_kettle
+exhaust_hood
+coffee_maker
+coffee_grinder
+water_heater
+induction_stove
+induction_cooktop
+deep_fryer
+deep_fryers
+juicer
+meat_grinder
+washing_machine
+washing_machines
+trash_compactor
+DVD_player
+digital_camera
+digital_cameras
+camcorder
+camcorders
+video_game_console
+video_game_consoles
+home_cinema
+answering_machine
+tumble_dryer
+dishwasher
+dishwashers
+pressure_cooker
+slow_cooker
+sous-vide
+pizza_oven
+stand_mixer
+toaster_oven
+bread_machine
+microwave_oven
+self-cleaning_oven
+woody
