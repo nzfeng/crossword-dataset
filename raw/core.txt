@@ -1090,6 +1090,7 @@ anchovy
 ancient
 ancient_history
 ancillary
+and
 Andes
 android
 andromeda
@@ -1475,6 +1476,7 @@ arid
 arise
 ark
 arm
+arm's_race
 armada
 armadillo
 armband
@@ -1598,6 +1600,7 @@ art_school
 art_student
 art_students
 art_teacher
+art_teachers
 artwork
 arugula
 ASAP
@@ -1792,6 +1795,7 @@ at_last
 at_least
 at_length
 ATM
+ATMs
 atmosphere
 at_odds
 atoll
@@ -1910,6 +1914,7 @@ auntie
 aunties
 aura
 aurora
+NDA
 Northern_Lights
 Southern_Lights
 auspices
@@ -3040,6 +3045,7 @@ bidder
 bidders
 bidding
 bidding_war
+bidding_wars
 bide
 bides
 bidet
@@ -3077,6 +3083,7 @@ big tech
 big-ticket
 big_time
 big_toe
+big_top
 bigwig
 bigwigs
 bike
@@ -5591,6 +5598,8 @@ charmed
 charmer
 charming
 charms
+charm_bracelet
+charm_bracelets
 charred
 chars
 chart
@@ -5604,6 +5613,7 @@ chases
 chased
 chaser
 chasm
+chasms
 chassis
 chaste
 chasten
@@ -6183,7 +6193,7 @@ claustrophobic
 claves
 clavicle
 clavier
-claws
+claw
 clawed
 clawlike
 claws
@@ -7566,6 +7576,7 @@ cored
 corer
 corgi
 coriander
+Coriolis
 Coriolis_effect
 cork
 corkboard
@@ -10201,6 +10212,10 @@ downvotes
 downward
 downwards
 downwind
+doxes
+doxing
+dox
+doxed
 dowry
 doze
 dozen
@@ -11192,6 +11207,7 @@ English_muffin
 English_muffins
 English-speaking
 English_teacher
+English_teachers
 engorge
 engorged
 engrave
@@ -12361,6 +12377,7 @@ faxed
 faze
 faze
 fazed
+unfazed
 FBI
 f-bomb
 f-bombs
@@ -12384,6 +12401,7 @@ feature
 features
 featured
 feature_film
+fecal
 fecund
 fed
 federal
@@ -12400,6 +12418,7 @@ feeds
 feedback
 feeder
 feeding
+feeding_frenzy
 feedlot
 feel
 feeler
@@ -12428,6 +12447,8 @@ felted
 felt_tip
 felt-tip_pen
 FEMA
+FERPA
+HIPAA
 female
 feminine
 femur
@@ -13470,7 +13491,6 @@ franchise
 frank
 Frankenstein
 frankfurter
-Franklin
 frankly
 frantic
 frat
@@ -13501,10 +13521,12 @@ freckles
 free
 freed
 free_agent
+free_agents
 freebie
 freebies
 freedom
 freedom_fighter
+freedom_fighters
 freedom_rider
 free-enterprise
 free_fall
@@ -13518,7 +13540,10 @@ free_kick
 free-lance
 freelancer
 freeload
+freeloads
+freeloaded
 freeloader
+freeloaders
 free_love
 free_lunch
 freely
@@ -13536,6 +13561,7 @@ free_weights
 freewheeling
 freewill
 freeze
+freezes
 froze
 frozen
 freeze-dried
@@ -13588,6 +13614,8 @@ friend
 friendly
 friendly fire
 friendship
+friendship_bracelet
+friendship_bracelets
 fries
 frigate
 fright
@@ -13603,8 +13631,10 @@ frilly
 fringe
 fringes
 fringe_benefit
+fringe_benefits
 fringe_festival
 Frisbee
+Frisbees
 frisk
 frisks
 frisked
@@ -13613,8 +13643,9 @@ frittata
 fritter
 fritters
 frivolous
+frizzle
+frizzled
 frizz
-Frizzle
 frizzy
 frock
 frog
@@ -13663,6 +13694,8 @@ frowns
 frowned_upon
 frozen
 frozen_yogurt
+frozen_vegetables
+frozen_fruit
 froyo
 fructose
 frugal
@@ -14012,10 +14045,11 @@ gearshift
 gecko
 geek
 geek_out
+geeks_out
+geeked_out
 geeks
 geeked
 geeky
-geeze
 gee-whiz
 geez
 geezer
@@ -14506,7 +14540,6 @@ gooey
 goober
 goobers
 good
-Goodall
 goodbye
 goodbyes
 good cholesterol
@@ -14530,7 +14563,7 @@ good_night
 good_old_days
 good_spirits
 good_time
-Goodwill
+goodwill
 good_word
 goody_bag
 goody_bags
@@ -15396,6 +15429,7 @@ haunch
 haunches
 haunt
 haunted
+haunted_house
 haunting
 haunts
 haute_couture
@@ -15416,6 +15450,7 @@ hay_bale
 hay_bales
 hay_fever
 haymaker
+hayride
 haystack
 haywire
 hazard
@@ -16328,7 +16363,6 @@ hugs
 hula
 hula-hoop
 hula-hoops
-hulk
 hulking
 hull
 hullabaloo
@@ -16459,7 +16493,6 @@ huts
 HVAC
 hyacinth
 hybrid
-Hyde
 hydrangea
 hydrangeas
 hydrant
@@ -17856,6 +17889,7 @@ jack-in-the-box
 jack of all trades
 jack-o-lantern
 jack-o-lanterns
+jackknife
 jackpot
 jacks
 jack_up
@@ -17868,6 +17902,8 @@ jaguar
 jaguars
 jail
 jailbreak
+jailbreaks
+jailbroken
 jailhouse
 jain
 jalopy
@@ -17896,12 +17932,14 @@ jars
 jarred
 jasmine
 jaundice
+jaundiced
 jaunt
 jaunty
 javelin
 jaw
 jawbone
 jawbreaker
+jaw-dropping
 jaws
 jay
 jaywalk
@@ -17910,7 +17948,9 @@ jaywalked
 jaywalker
 jazz
 jazz_band
+jazz_hands
 jazzy
+je_ne_sais_quoi
 jealous
 jealousy
 jeans
@@ -17928,8 +17968,10 @@ jelly
 jelly_bean
 jellybeans
 jelly_doughnut
+jelly_doughnuts
 jellyfish
 jeopardize
+jeopardizes
 jeopardized
 jeopardy
 jerk
@@ -17939,8 +17981,6 @@ jerky
 Jerry
 jersey
 jerseys
-Jerusalem
-Jesse_Owens
 jest
 jester
 jesting
@@ -17951,7 +17991,14 @@ jet_lag
 jetliner
 jets
 jet_set
+jet-setting
 jetsetter
+jetsetters
+jet_ski
+jet_skis
+jet_skiier
+jet_skiiers
+jet_skiiing
 jet_stream
 jetting
 jettison
@@ -17962,6 +18009,8 @@ jewel
 jewels
 jeweler
 jewelry
+jibber-jabber
+jibber-jabbering
 jicama
 jiffy
 jig
@@ -17995,6 +18044,9 @@ job_application
 job_applications
 job_candidate
 job_candidates
+job_hunter
+job_hunters
+job-hunting
 job_interview
 job_interviews
 jobs
@@ -18002,6 +18054,7 @@ jock
 jockey
 jockeys
 jockeyed
+jockeying
 jock_itch
 jocks
 jockstrap
@@ -18037,7 +18090,6 @@ jolt
 jolted
 jolting
 jolts
-Jonas_Salk
 Joneses
 josh
 Joshua_tree
@@ -18066,6 +18118,8 @@ joyful
 joyless
 joyous
 joyride
+joyrider
+joyriders
 joys
 joystick
 JPEG
@@ -18076,9 +18130,12 @@ judges
 judged
 Judgement_Day
 judging
+judgy
 judgment
 judgmental
 judicial
+judicial_review
+jug_band
 judicious
 judo
 jug
@@ -18087,7 +18144,9 @@ juggle
 juggles
 juggled
 juggler
+jugglers
 juggling
+juggling_act
 jugs
 jugular
 juice
@@ -18095,8 +18154,11 @@ juices
 juiced
 juicer
 juicy
+juice_box
+juice_boxes
 jujitsu
 jukebox
+jukebox_musical
 julienne
 julienned
 juliennes
@@ -18165,6 +18227,7 @@ jurors
 jury
 jury_box
 jury_duty
+jury-rigged
 just
 just_deserts
 justice
@@ -18182,6 +18245,7 @@ jutted
 jutting
 juvenile
 juxtapose
+juxtaposes
 juxtaposed
 juxtaposition
 Kafkaesque
@@ -18257,17 +18321,26 @@ kettlebells
 kettle-cooked
 key
 keyboard
+keyboards
 keyboard warrior
 keycard
+keycards
 keychain
 keychains
 keyed
 keyhole
+keyholes
 keyless
 key_lime
+key_lime_pie
 keynote
+keynotes
+keynote_speaker
+keynote_speakers
 keypad
+keypads
 key_ring
+key_rings
 keys
 keystone
 key_stroke
@@ -18297,6 +18370,8 @@ kickstand
 kick-start
 kick-started
 kick-starts
+kick-starter
+kickball
 kick_the_bucket
 kick_turn
 kickflip
@@ -18312,6 +18387,10 @@ kidney_bean
 kidney_stone
 kids
 kids menu
+kid_sister
+kid_brother
+kiddie_cone
+kimchi
 kielbasa
 kill
 killed
@@ -18365,6 +18444,7 @@ kisses
 kissed
 kisser
 kissing
+kiss_up
 kit
 kits
 kitchen
@@ -18377,6 +18457,7 @@ kitchen towel
 kitchen towels
 kitchenware
 kite
+kites
 kiting
 kits
 kitsch
@@ -18934,6 +19015,7 @@ leggings
 leggy
 leg hair
 legible
+legion
 legions
 legislate
 legislator
@@ -19844,6 +19926,7 @@ lurks
 lurked
 lurking
 lurker
+lurkers
 lush
 lust
 lust_after
@@ -19882,6 +19965,7 @@ machete
 Machiavellian
 machinations
 machine
+machines
 machinery
 machine_wash
 machismo
@@ -19991,7 +20075,12 @@ maize
 majestic
 majesty
 major
+majored
+major_in
+majored_in
+majors_in
 majorette
+majorettes
 majority
 majority_rule
 major_key
@@ -20376,6 +20465,7 @@ matey
 math
 mathematics
 math_teacher
+math_teachers
 matinee
 matriarch
 matriarchal
@@ -21020,6 +21110,7 @@ minor_roles
 minors
 Minotaur
 mint
+mints
 minty
 minuet
 minus
@@ -22842,6 +22933,9 @@ off-white
 often
 ogre
 ogres
+oh_boy
+oh-so
+oh_well
 oil
 oils
 oil_company
@@ -22975,6 +23069,7 @@ on_the_fence
 on-the-job
 on_the_nose
 on_the_other_hand
+on_the_run
 on_the_side
 on-the-spot
 on_the_way
@@ -23073,6 +23168,7 @@ opted
 optical
 optic_nerve
 optics
+optic
 optimal
 optimally
 optimism
@@ -23199,7 +23295,6 @@ orthogonal
 orthopedic
 Orwellian
 orzo
-Osaka
 oscillate
 oscillated
 oscillates
@@ -24845,6 +24940,7 @@ pickpocketed
 pickpockets
 pickup
 pickup_truck
+pickup_trucks
 picky
 pick your poison
 picnic
@@ -24856,13 +24952,15 @@ pics
 picture
 pictures
 picture_book
+picture_books
 pictured
 picture_frame
+picture_frames
 picturesque
 picturing
 pidgin
 pie
-pices
+pieced
 piebald
 piece
 pieces
@@ -26457,6 +26555,7 @@ profiteer
 profiteers
 profit_margin
 profit_margins
+profit-sharing
 profits
 profound
 profoundly
@@ -27107,11 +27206,16 @@ quacks
 quacked
 quad
 quads
+quadcopter
+quadcopters
 quadrangle
 quadrant
 quadrants
+quadratic
+quadratic_formula
 quadriceps
 quadrilateral
+quadrilaterals
 quadruped
 quadrupeds
 quadruple
@@ -27135,6 +27239,8 @@ quals
 qualified
 qualifier
 qualifiers
+qualification
+qualifications
 qualify
 qualifying
 qualitative
@@ -27142,6 +27248,7 @@ qualities
 quality
 quality_control
 quality_of_life
+quality_time
 qualms
 quandary
 quantifier
@@ -27173,8 +27280,12 @@ quarts
 quarter
 quartered
 quarters
+quarter_note
+quarter_notes
 quarterback
 quarterfinal
+quarterfinalist
+quarterfinalists
 quartering
 quarterly
 quartet
@@ -27182,6 +27293,10 @@ quartile
 quartz
 quasi
 quatrain
+quaver
+quavers
+quavered
+quavering
 qubit
 queasy
 queen
@@ -27196,6 +27311,7 @@ quelled
 quelling
 quench
 quenched
+quencher
 quenched_steel
 thirst-quenching
 thirst-quencher
@@ -27226,6 +27342,7 @@ queued
 quibble
 quibbles
 quibbled
+quibbling
 quiche
 quick
 quick_bread
@@ -27242,8 +27359,12 @@ quickly
 quicksand
 quicksilver
 quick_study
-Quidditch
+quick-thinking
+quick-witted
+quickstep
 quid_pro_quo
+quiescence
+quiescent
 quiet
 quiets
 quieted
@@ -27266,6 +27387,7 @@ quintuplets
 quip
 quips
 quipped
+quipster
 quirk
 quirks
 quirky
@@ -27276,6 +27398,8 @@ calls_it_quits
 called_it_quits
 quitter
 quiver
+quivers
+quivered
 quivering
 quixotic
 quiz
@@ -27283,6 +27407,7 @@ quizzed
 quizzes
 quizzer
 quizzical
+quiz_bowl
 quorum
 quota
 quotas
@@ -29155,6 +29280,7 @@ rivet
 riveter
 riveting
 rivulet
+rivulets
 roach
 roaches
 road
@@ -29171,6 +29297,16 @@ inroads
 roadside
 roadster
 roadway
+road_map
+road_bike
+road_manager
+road_sign
+road_signs
+road_show
+road_trip
+roadhouse
+roadrunner
+roadster
 roam
 roams
 roaming
@@ -29542,6 +29678,8 @@ runaway
 runaways
 run_by
 rundown
+run_deep
+runs_deep
 run_dry
 ran_dry
 rune
@@ -29550,8 +29688,12 @@ rung
 rungs
 run_high
 run-in
+run_into
 run_low
 ran_low
+run_by
+ran_by
+run_high
 runner
 runners
 runner-up
@@ -29569,9 +29711,13 @@ run-on
 run-on_sentence
 run_out
 runs_out
+run_riot
 ran_out
 run_over
 ran_over
+runs_over
+run-on
+run-ons
 runs
 runt
 run_short
@@ -29580,6 +29726,9 @@ run_through
 run-time
 run_up
 runway
+run_wild
+ran_wild
+runs_wild
 rupture
 ruptures
 ruptured
@@ -32276,6 +32425,9 @@ sniffling
 snip
 snips
 snipped
+snipe
+snipes
+sniped
 sniper
 snipers
 snippet
@@ -32713,7 +32865,7 @@ spacing
 spacious
 spackle
 spackled
-spacy
+spacey
 spade
 spaghetti
 spaghetti_sauce
@@ -32933,8 +33085,7 @@ SPF
 sphere
 spherical
 sphinx
-spic
-spic-and-span
+spick-and-span
 spice
 spice_rack
 spices
@@ -33076,6 +33227,7 @@ spoof
 spoofs
 spoofed
 spook
+spooks
 spooked
 spooky
 spool
@@ -33137,6 +33289,7 @@ spray
 sprays
 sprayed
 spray_can
+spray_tan
 spraying
 spray_paint
 spray_paints
@@ -33533,6 +33686,13 @@ starry-eyed
 starship
 star_sign
 star-studded
+star_anise
+star_fruit
+star-gazing
+star-spangled
+star_turn
+stark_naked
+start_a_family
 start
 starts
 started
@@ -33980,6 +34140,7 @@ storm_drain
 storm_drains
 stormy
 story
+storybook
 storyboard
 storyboarding
 storyboards
@@ -34054,6 +34215,7 @@ cash-strapped
 strapless
 strapless_bra
 strapping
+stratum
 strata
 stratagem
 stratagems
@@ -34278,6 +34440,10 @@ struggles
 struggled
 struggling
 strung
+strum
+strums
+strumming
+strummed
 strut
 struts
 strutted
@@ -34305,6 +34471,7 @@ student_athlete
 student_athletes
 student_center
 student_teacher
+student_teachers
 studied
 studies
 studio
@@ -35875,6 +36042,8 @@ teacher
 teachers
 teacher's_pet
 teaching
+teach_school
+taught_school
 write-in
 tea_cozy
 teacup
@@ -36056,6 +36225,7 @@ TV_shows
 television_station
 TV_station
 TV_stations
+TV_set
 tell
 tells
 told
@@ -36506,6 +36676,8 @@ throw
 throws
 throw_a_curve_ball
 threw_a_curve_ball
+they
+them
 throwaway
 throw_back
 thrower
@@ -37072,7 +37244,9 @@ touched
 touches
 touching
 touch_screen
+touch_screens
 touch_up
+touches_up
 touched_up
 touche
 touchy
@@ -37086,6 +37260,7 @@ tour
 tours
 toured
 on_tour
+tour_bus
 tour_de_force
 tour_guide
 tour_guides
@@ -37096,6 +37271,7 @@ tourist_attraction
 tourist_attractions
 touristy
 tournament
+tournaments
 tourniquet
 tousle
 tousled
@@ -37885,6 +38061,7 @@ tusked
 tussle
 tussled
 tutelage
+tutee
 tutor
 tutors
 tutorial
@@ -38211,6 +38388,8 @@ underpin
 underpinning
 underprivileged
 underrated
+underreport
+underreported
 underscore
 underscores
 undershirt
@@ -38244,6 +38423,7 @@ underwater
 underway
 underwear
 underweight
+underwhelmed
 underwire
 underworld
 under_wraps
@@ -38869,6 +39049,9 @@ vacuum-cleans
 vacuum-cleaned
 vacuum_tube
 vacuum_tubes
+vacuum-pack
+vacuum-packed
+vacuum-packs
 vagabond
 vagabonds
 vagaries
@@ -39010,6 +39193,8 @@ vegetarians
 vegetation
 vegetative
 veggie
+veggie_burger
+veggie_burgers
 vegetarians
 vehemence
 vehement
@@ -39035,6 +39220,7 @@ vends
 vendetta
 vending
 vending_machine
+vending_machines
 vendor
 vendors
 veneer
@@ -39098,6 +39284,8 @@ verified
 verifies
 verify
 verifying
+verisimilitude
+verisimilar
 vermicelli
 vermillion
 vermin
@@ -39651,7 +39839,7 @@ warden
 wardens
 wardrobe
 ware
-warew
+wares
 warehouse
 warehouses
 warfare
@@ -40822,6 +41010,7 @@ wussed
 wuss_out
 wyvern
 x_chromosome
+X_factor
 xenon
 x-ing
 x-linked
@@ -40829,6 +41018,7 @@ x-ray
 x-rays
 x-rayed
 xylophone
+xylitol
 yacht
 yachts
 yada
@@ -40933,7 +41123,9 @@ young_man
 youngster
 youngsters
 your_highness
+yours
 yourself
+your
 you_said_it
 youth
 youths
@@ -40974,6 +41166,8 @@ zeppelin
 zero
 zeros
 zero_in
+zeroed_in
+zeroes_in
 zero_out
 zeroes_out
 zeroed_out
@@ -40987,6 +41181,7 @@ zester
 zesty
 Zeus
 ziggurat
+ziggurats
 zigzag
 zigzags
 zigzagged
@@ -41080,3 +41275,41 @@ bread_machine
 microwave_oven
 self-cleaning_oven
 woody
+stout
+disappearing_act
+behind_the_scenes
+set_the_scene
+change_of_scenery
+scratch-resistant
+water-resistant
+on_deck
+star-struck
+escape_clause
+handle_with_care
+take_care
+undead
+undaunted
+underdeliver
+underdelivered
+underdelivers
+underage
+underappreciated
+underarm
+underbelly
+underbite
+overbite
+underpants
+underfed
+underpass
+underpay
+underpaid
+underperform
+underperformed
+underperforms
+inveterate
+almond_milk
+cashew_milk
+coconut_milk
+would
+could
+should
