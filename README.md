@@ -1,4 +1,4 @@
-TODO: Adding missing plurals: left off at "babble"
+TODO: Adding missing plurals: left off at "base_pairs"
 
 # Crossword dataset
 This is **manually curated** dataset of \~35,000 words and phrases in **American English** that I have deemed suitable as entries for (American) word puzzles, primarily American-style crosswords. All entries are contained in a single alphabetized .txt file, with each entry occupying a separate line. I have left original punctuation in the entries if possible, for better human readability; standardization of the entries and further sorting is left to the user. A few Python scripts for standardization/sorting are located in `scripts`.
