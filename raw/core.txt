@@ -6250,6 +6250,7 @@ chugged
 chum
 chummy
 chump
+chump_change
 chunk
 chunks
 chunky
@@ -8321,6 +8322,8 @@ cricket_bat
 cricketer
 crickets
 cried
+crier
+town_crier
 cries
 crime
 criminal
@@ -14375,7 +14378,6 @@ geeks
 geeked
 geeky
 gee-whiz
-geez
 geezer
 geezers
 Geiger_counter
@@ -19342,6 +19344,7 @@ legally blind
 legato
 leg_curl
 leg_curls
+leg_room
 legend
 legends
 legendary
@@ -23036,7 +23039,6 @@ nutty
 nuzzle
 nuzzles
 nuzzled
-nyan
 nylon
 nylons
 nymph
@@ -23955,7 +23957,6 @@ overrule
 overrules
 overruled
 overrun
-oversea
 overseas
 oversee
 oversees
@@ -28491,6 +28492,7 @@ red
 redact
 redacts
 redacted
+red_algae
 red_alert
 red_carpet
 redden
@@ -30680,6 +30682,7 @@ scope
 scorch
 scorches
 scorched
+scorched_earth
 scorcher
 scorching
 score
@@ -31118,6 +31121,7 @@ self-interest
 selfish
 selfless
 self-love
+self-care
 self-made
 self-portrait
 self-restraint
@@ -41713,3 +41717,12 @@ slam_dunk
 slam_dunks
 alley-oop
 chalcedony
+hoedown
+toady
+toadies
+refit
+refits
+refitting
+in_the_know
+know_best
+knows_best
