@@ -20,6 +20,7 @@ thirst_trap
 Three_Stooges
 three_blind_mice
 throwback_thursday
+flashback friday
 throw_shade
 throws_shade
 threw_shade
@@ -55,6 +56,8 @@ van_life
 vape
 vaping
 vaped
+pretzel_bun
+brioche_bun
 vapes
 vape_pen
 vaper
@@ -187,6 +190,7 @@ cocktail_sauce
 coffee_table
 mocktail
 mocktails
+sorority_squat
 slam_dunk_contest
 back_button
 backslash
@@ -209,3 +213,14 @@ come_to_pass
 came_to_pass
 nyan
 nyan_cat
+bubblegum_pop
+chocoholic
+oddly_specific
+prime_real_estate
+cool_as_a_cucumber
+jorts
+jean_shorts
+horchata
+no_spoilers
+spoiler_alert
+secret_menu

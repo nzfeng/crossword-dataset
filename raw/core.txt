@@ -2246,6 +2246,7 @@ baby_boomer
 baby_boomers
 baby_bump
 baby-faced
+baby_fat
 baby_grand
 baby_oil
 baby_powder
@@ -3713,8 +3714,12 @@ bloodbath
 blood_cell
 blood_cells
 blood_clot
+blood_clots
 bloodcurdling
 blood_donor
+blood_drive
+food_drive
+clothing_drive
 bloodhound
 bloodline
 blood_money
@@ -3878,16 +3883,28 @@ bodice_ripper
 bodies
 boding
 body
+body_armor
 body art
 body board
 body boarding
 body-build
 bodybuilder
+bodybuilders
 bodybuilding
+body_camera
+body_cameras
+body_cam
+body_cams
+body_check
 body_count
 bodyguard
 bodyguards
+body_double
+body_doubles
+stunt_double
+stunt_doubles
 body_hair
+body_image
 body_language
 body_lotion
 body_odor
@@ -3896,14 +3913,23 @@ body_part
 body_parts
 body positivity
 body-shame
+body-shames
+body-shamed
 body-shamer
 body-shaming
-body_suit
-body-surf
+bodyslam
+bodybag
+bodybags
+bodysuit
+bodysurf
+bodysurfs
+bodysurfed
+bodysurfing
 body temperature
 body_type
 body_wash
 body_weight
+body_and_soul
 bog
 bogs
 bog_down
@@ -4717,6 +4743,8 @@ builds
 builder
 building
 buildings
+building_block
+building_blocks
 buildup
 built
 built-in
@@ -4897,6 +4925,7 @@ bustle
 bustling
 busts
 busy
+busy_bee
 busybody
 busybodies
 busywork
@@ -6138,6 +6167,9 @@ chocolate_bar
 chocolate_bars
 chocolate bunny
 chocolate_cake
+chocolatier
+chocolate_chip
+chocolate_chips
 chocolate_chip_cookie
 chocolate_chip_cookies
 chocolate-coated
@@ -6242,7 +6274,6 @@ chucked
 chuckle
 chuckles
 chuckled
-chuff
 chuffed
 chug
 chugs
@@ -6989,6 +7020,7 @@ colony
 color
 color-blind
 color_code
+color_commentary
 colored
 colorfast
 colorful
@@ -6996,6 +7028,7 @@ color_guard
 color_in
 coloring
 coloring_book
+coloring_books
 colorize
 colorized
 colorizes
@@ -7749,6 +7782,7 @@ convect
 convection
 convenience
 convenience_store
+convenience_stores
 convenient
 convene
 convenes
@@ -8463,6 +8497,8 @@ crowdsource
 crowdsources
 crowdsourced
 crowdsourcing
+crowd-surf
+crowd-surfs
 crowd-surfer
 crowing
 crown
@@ -8818,9 +8854,11 @@ damaging
 damask
 dame
 damn
+damndest
 damnation
 damning
 damp
+damps
 dampen
 dampened
 dampening
@@ -8934,6 +8972,7 @@ day_off
 days
 daytime
 daze
+dazes
 dazed
 dazzle
 dazzles
@@ -9113,6 +9152,7 @@ deduct
 deducted
 deductible
 deduction
+deductions
 deductive
 deducts
 deed
@@ -10835,6 +10875,11 @@ dumpling
 dumplings
 dumps
 Dumpster
+dumpster_fire
+dumpster-dive
+dumpster-dives
+dumpster-diver
+dumpster-divers
 dump truck
 dumpy
 dunce
@@ -12416,6 +12461,9 @@ Fahrenheit
 fail
 fails
 failed
+fail_up
+fails_up
+failed_up
 failing
 fail-safe
 failure
@@ -12446,6 +12494,7 @@ fake
 fakes
 faked
 fake_ID
+fake_tan
 faker
 fakery
 fake tattoo
@@ -13214,7 +13263,6 @@ flash
 flashes
 flashed
 flashback
-flashback friday
 flashbulb
 flashbulbs
 flashcard
@@ -13359,7 +13407,10 @@ flooded
 floodgates
 flooding
 floodlight
+floodlights
 floodplain
+floodwater
+floodwaters
 floor
 floors
 floorboard
@@ -13562,6 +13613,8 @@ food_processor
 food_pyramid
 food_stamp
 food_stamps
+food_truck
+food_trucks
 fool
 fools
 fooled
@@ -14620,6 +14673,7 @@ gladiator
 gladiators
 gladly
 glam
+glam_rock
 glamor
 glamorous
 glamp
@@ -14812,6 +14866,7 @@ goggles
 go_home
 go_big
 going
+going_strong
 go_under
 goiter
 goji
@@ -15000,6 +15055,7 @@ gram
 grams
 grammar
 grand
+grand_prize
 Grand_Canyon
 grandchild
 grandeur
@@ -15247,11 +15303,13 @@ group
 groups
 grouped
 group dynamic
+group dynamics
 group effort
 grouper
 group hug
 grouping
 group_therapy
+group_photo
 groupthink
 grouse
 grout
@@ -15658,13 +15716,19 @@ harbors
 harbored
 hard
 hardball
+hard-boil
 hard-boiled
+hard-boiled_egg
+hard-boiled_eggs
+hard_cash
 hard_candy
 hard_cider
+hard-coded
 hard_copy
 hardcore
 hardcover
 hard_drive
+hard-earned
 harden
 hardens
 hardened
@@ -15676,6 +15740,7 @@ hardline
 hardliner
 hardly
 hard pass
+hard-pressed
 hardscrabble
 hard_sell
 hardship
@@ -16145,6 +16210,11 @@ highlights
 high-minded
 highness
 high note
+half_note
+half_notes
+whole_note
+quarter_note
+quarter_notes
 HOV
 high-octane
 high-pitched
@@ -18242,6 +18312,8 @@ jailbreaks
 jailbroken
 jailhouse
 jain
+jalapeno
+jalapenos
 jalopy
 jam
 jamb
@@ -18599,6 +18671,8 @@ karat
 karats
 karate
 karma
+good_karma
+bad_karma
 kayak
 kazoo
 K-drama
@@ -18929,6 +19003,8 @@ labor_union
 Labrador
 labs
 labyrinth
+labrat
+labrats
 lace
 laces
 laced
@@ -20881,6 +20957,9 @@ mealtime
 mealy
 mealymouthed
 mean
+mean_it
+means_it
+meant_it
 meander
 meanders
 meandered
@@ -20889,6 +20968,7 @@ meaning
 meaningful
 meaningless
 means
+meant
 meanspirited
 meantime
 meanwhile
@@ -21252,6 +21332,7 @@ microscopic
 microwave
 microwaves
 microwaved
+microwave_popcorn
 mics
 mid
 midafternoon
@@ -21705,18 +21786,24 @@ model
 models
 modeled
 modeling
+model_student
 modem
 moderate
 moderating
 moderation
 moderator
+moderators
 modern
 modern-day
+modern_history
+modern_dance
+modern_language
 modernist
 modernity
 modernize
 modernized
 modernizes
+modus_operandi
 modes
 modest
 modesty
@@ -22304,6 +22391,7 @@ mystique
 myth
 myths
 urban_myth
+urban_myths
 urban_legend
 mythic
 mythical
@@ -22662,12 +22750,14 @@ newsworthy
 newt
 newts
 New_World
+New_Age
 New_Year
 New_Year's_Eve
 New_Year's
 New_Yorker
 New_York_minute
 New_York_strip
+new_blood
 next
 next_door
 next_of_kin
@@ -23194,6 +23284,7 @@ recur
 recurring
 odd-job
 odd_jobs
+odd_lot
 oddly
 odd_man_out
 odds
@@ -23307,6 +23398,7 @@ old_school
 old-timer
 old_times
 Old_World
+old_age
 olfactory
 oligarch
 oligarchs
@@ -23427,6 +23519,8 @@ on_the_side
 on-the-spot
 on_the_way
 on_time
+no_time
+in_time
 on_tour
 on_trial
 onus
@@ -24581,6 +24675,8 @@ past_tense
 pasture
 pastures
 pasty
+pat_dry
+pats_dry
 pat
 pats
 patted
@@ -26137,6 +26233,9 @@ populated
 population
 population_growth
 populist
+pop_culture
+pop_star
+pop_idol
 pop_up
 pop_ups
 porcelain
@@ -27105,8 +27204,13 @@ prostate
 prostate_gland
 prosthesis
 prostheses
+prosthetic_arm
+prosthetic_arms
+prosthetic_leg
+prosthetic_legs
 prosthetic
 prosthetics
+prostheses
 prostrate
 prostrates
 prostrated
@@ -28349,6 +28453,7 @@ received
 receiver
 receivers
 recency
+recency_bias
 recent
 recently
 receptacle
@@ -29911,6 +30016,7 @@ rounds_down
 rounded_down
 rounded
 roundhouse
+roundhouse_kick
 rounding
 rounding_error
 round_of_drinks
@@ -30569,6 +30675,7 @@ scenes
 scene-stealer
 scenic
 scent
+scents
 scented
 scentfree
 scentless
@@ -30753,6 +30860,7 @@ scratch_the_surface
 scratched_the_surface
 scratches_the_surface
 up_to_scratch
+up_to_snuff
 scratchy
 scrawl
 scrawls
@@ -30976,6 +31084,13 @@ secretaries
 secretary
 Secretary_of_State
 secret_code
+secret_ingredient
+secret_recipe
+secret_ballot
+secret_police
+secret_sauce
+secret_shopper
+secret_shoppers
 secrete
 secreted
 secretes
@@ -32731,6 +32846,7 @@ snags
 snail
 snails
 snail_mail
+snail's_pace
 snake
 snakes
 snakebite
@@ -33045,6 +33161,7 @@ solid
 solidarity
 solid_food
 solid_ground
+solid_state
 solidified
 solidifies
 solidify
@@ -33131,7 +33248,6 @@ sorely
 sore_throat
 sorghum
 sorority
-sorority_squat
 sorrow
 sorrowful
 sorry
@@ -33578,6 +33694,7 @@ spoils
 spoilage
 spoiled
 spoiler
+spoilers
 spoiling
 spoke
 spoken
@@ -33984,7 +34101,7 @@ stance
 stand
 stands
 stood
-stand-alone
+standalone
 standard
 standard-bearer
 standard_deviation
@@ -34035,6 +34152,7 @@ star_anise
 starboard
 starch
 star_chart
+star-crossed
 starches
 starchy
 stardom
@@ -34160,6 +34278,7 @@ steadied
 steadies
 steady
 steadying
+steady_state
 steak
 steakhouse
 steak_tartare
@@ -34234,6 +34353,9 @@ stepchild
 stepdaughter
 stepsister
 stepsisters
+step_aside
+steps_aside
+step_back
 step_down
 steps_down
 stepped_down
@@ -34253,6 +34375,8 @@ steps
 stepsister
 step_stool
 step_up
+steps_up
+stepped_up
 stereo
 stereoscopic
 stereotype
@@ -34850,6 +34974,8 @@ student_athletes
 student_center
 student_teacher
 student_teachers
+student_council
+student_driver
 studied
 studies
 studio
@@ -35519,6 +35645,7 @@ surviving
 survivor
 survivors
 survivor's_guilt
+survivorship_bias
 susceptible
 sushi
 sushi_roll
@@ -36910,6 +37037,7 @@ thighs
 thimble
 thimbleful
 thin
+thins
 thin_air
 thing
 thin-skinned
@@ -37513,13 +37641,16 @@ top_brass
 topcoat
 top_dog
 top-down
+top_end
 to_perfection
 top_hat
 top-heavy
 top_forty
+top-flight
 topiary
 topic
 topics
+topic_sentence
 topical
 topknot
 topless
@@ -37766,6 +37897,8 @@ traditions
 traditional
 traditionally
 traffic
+traffic_cone
+traffic_cones
 traffic_control
 traffic_circle
 traffic_court
@@ -38573,6 +38706,7 @@ u-boats
 udders
 udder
 udon
+upon
 UFO
 UFOs
 ugly
@@ -39309,6 +39443,7 @@ uranium
 urban
 urbane
 urbanize
+urbanizes
 urbanized
 urban_legend
 urban_legends
@@ -39625,6 +39760,8 @@ ventilate
 ventilates
 ventilated
 ventilation
+ventilation_shaft
+ventilation_shafts
 ventilator
 venting
 ventral
@@ -41525,6 +41662,7 @@ yummy
 yuppie
 yuppies
 yurt
+yurts
 zany
 zap
 zaps
@@ -41726,3 +41864,19 @@ refitting
 in_the_know
 know_best
 knows_best
+code_name
+code_names
+code-named
+code-switch
+code_word
+codebreaker
+codebreakers
+code_of_conduct
+about_time
+at_times
+halftime
+halftime_show
+keep_time
+time_flies
+time_is_money
+say_cheese
