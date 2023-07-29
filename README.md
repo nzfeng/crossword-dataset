@@ -2,7 +2,7 @@ TODO: Adding missing plurals: left off at "base_pairs"
 
 TODO: Maybe split of phrases into a new file called `colloquial.txt`.
 
-# Crossword dataset
+# MsFit Crossword Dataset
 This is **manually curated** dataset of \~35,000 words and phrases in **American English** that I have deemed suitable as entries for (American) word puzzles, primarily American-style crosswords. All entries are contained in a single alphabetized .txt file, with each entry occupying a separate line. I have left original punctuation in the entries if possible, for better human readability; standardization of the entries and further sorting is left to the user. A few Python scripts for standardization/sorting are located in `scripts`.
 
 Any entry is included only if (1) it is commonly used in everyday American English, and (2) it can stand alone as a non-awkward crossword entry. This dataset includes nouns, adjectives, verbs; it contains few gerunds, adverbs, and proper nouns. It also includes short phrases, idioms, and sets of words that often go together (i.e. "school night", "secret santa", "ride shotgun", etc.) See the "Rules for inclusion" section for more details about how I decided whether an entry should belong. See "Curation process" for where I curated these entries from.
@@ -63,8 +63,8 @@ I thought about adding syntactic/semantic tags to entries, and possibly putting 
 ## Citation
 If you find this dataset useful, I would appreciate if you acknowledged it! If you use this dataset for an academic publication, here is a BibTex entry:
 ```
-@misc{crossword-dataset,
-  title = {crossword-dataset},
+@misc{msfit-dataset,
+  title = {msfit-dataset},
   author = {Nicole Feng},
   note = {https://github.com/nzfeng/crossword-dataset},
   year = {2022}

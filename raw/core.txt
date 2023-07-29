@@ -2241,12 +2241,21 @@ babies
 baboon
 baboons
 baby
+baby_album
+baby_blue
+baby_bottle
+baby_bottles
+baby_brain
 baby_boom
 baby_boomer
 baby_boomers
 baby_bump
+baby's_breath
+baby_corn
+baby_face
 baby-faced
 baby_fat
+baby_food
 baby_grand
 baby_oil
 baby_powder
@@ -2256,6 +2265,7 @@ babysits
 babysitter
 babysitters
 baby_sitting
+baby_step
 baby_steps
 babytalk
 baby_tooth
@@ -2396,6 +2406,14 @@ bad
 badass
 badassery
 bad_blood
+bad_breath
+bad_boy
+bad_boys
+bad_call
+bad_cholesterol
+bad_faith
+good_faith
+bada_bing
 bad day
 bade
 bad egg
@@ -2411,15 +2429,19 @@ bad_guy
 bad_guys
 badlands
 bad_luck
+bad_hair_day
 bad_manners
 badminton
 badminton_court
 badminton_courts
 badminton_racket
 badminton_rackets
+bad_mood
 badmouth
 badmouths
 badmouthed
+bad_news
+good_news
 bad_weather
 baffle
 baffles
@@ -2510,6 +2532,7 @@ ballerinas
 ballet
 ball_game
 ball_gown
+ball_gowns
 ballistic
 balloon
 balloons
@@ -2518,9 +2541,11 @@ ballooning
 ballot
 ballots
 ballot_box
+ballot_boxes
 ballpark
 ballpoint
 ballpoint_pen
+ballpoint_pens
 ballroom
 ballroom_dance
 ballroom_dancing
@@ -2932,7 +2957,10 @@ bear_hug
 bearings
 bearish
 bear_market
+bear_spray
 bear_witness
+bears_witness
+bore_witness
 beast
 beat
 beats
@@ -4265,6 +4293,8 @@ braids
 braille
 brain
 brains
+brain_cell
+brain_cells
 brainchild
 brain_drain
 brain_freeze
@@ -4614,6 +4644,7 @@ brusque
 brussels_sprout
 brussels_sprouts
 brutal
+brute_force
 brutish
 bubble
 bubbles
@@ -6089,6 +6120,8 @@ childless
 childlike
 child prodigy
 childproof
+childproofs
+childproofed
 childrearing
 children
 children's book
@@ -7876,6 +7909,9 @@ cooties
 cop
 cops
 coparent
+coparents
+coparenting
+coparented
 cope
 copes
 coped
@@ -8800,6 +8836,7 @@ cylindrical
 cymbal
 cymbals
 cynic
+cynics
 cynical
 cynicism
 cypress
@@ -8898,6 +8935,7 @@ dappled
 dare
 dared
 daredevil
+daredevils
 dares
 daring
 dark
@@ -8965,7 +9003,7 @@ daydream
 daydreams
 daydreamer
 daydreaming
-day job
+day_job
 daylight
 daylight_savings
 day_off
@@ -9017,6 +9055,7 @@ deals
 dealt
 dean
 deans
+dean's_list
 dear
 dearest
 dearly
@@ -9031,8 +9070,10 @@ debate
 debated
 debater
 debates
+up_for_debate
 debit
 debit_card
+debit_cards
 debonair
 debone
 debrief
@@ -9048,6 +9089,8 @@ debunk
 debunks
 debunked
 debut
+debuts
+debuted
 decade
 decades
 decadent
@@ -10155,6 +10198,7 @@ dissents
 dissented
 dissenter
 dissenting
+dissenting_opinion
 dissertation
 disservice
 dissident
@@ -10488,6 +10532,7 @@ double_negative
 double_down
 doubles_down
 doubled_down
+double_life
 double-park
 double_play
 doubles
@@ -13085,6 +13130,8 @@ fired
 fire_department
 fire_door
 fire_drill
+fire-eater
+firewater
 fire_escape
 fire_extinguisher
 fire_fighter
@@ -13103,10 +13150,12 @@ fire-resistant
 fire_sale
 fireside
 fireside_chat
+fireside_chats
 firestorm
 fire_truck
 fire_trucks
 firewall
+firewalls
 firewater
 firewood
 fireworks
@@ -13645,6 +13694,8 @@ footpath
 footprint
 footprints
 foot_race
+footrub
+footrubs
 footrest
 foots
 footstep
@@ -13985,8 +14036,10 @@ fricassee
 friction
 Friday
 fridge
+minifridge
 fried
 fried_egg
+fried_eggs
 fried rice
 friend
 friendly
@@ -14570,10 +14623,13 @@ ghosted
 ghostbuster
 ghostbusters
 ghost town
+ghost towns
 ghostwriter
+ghostwriters
 giant
 giants
 giant_panda
+giant_pandas
 giant_squid
 gibberish
 gibbon
@@ -14632,6 +14688,9 @@ Girl_Scout
 girl_scout_cookie
 girl_scout_cookies
 Girl_Scouts
+Girl_Scout_troop
+Girl_Scout_troops
+Girl_Scout_leader
 girl_talk
 girth
 gist
@@ -14853,6 +14912,7 @@ goddess
 godfather
 godmother
 godparent
+godparents
 godsend
 Godspeed
 goes
@@ -14921,6 +14981,8 @@ gooey
 goober
 goobers
 good
+good_boy
+good_girl
 goodbye
 goodbyes
 good cholesterol
@@ -14931,21 +14993,28 @@ good fences
 good_fortune
 good_guy
 good_guys
+good_humor
+good-humored
 goodies
+good_life
 good_looks
+good-looking
 good_luck
 good_luck_charm
 good_manners
+good_money
 good_morning
 good-natured
 goodness
 good news
 good_night
 good_old_days
+good_riddance
 good_spirits
 good_time
 goodwill
 good_word
+good_work
 goody_bag
 goody_bags
 goody_two_shoes
@@ -15438,6 +15507,10 @@ gun
 guns
 gunned
 gung-ho
+gun-shy
+gun_control
+gunfight
+gunfire
 gunk
 gunpowder
 guppy
@@ -15597,6 +15670,7 @@ hand
 handbag
 handbags
 handball
+handbasket
 handbook
 hand_brake
 handcrafted
@@ -15607,6 +15681,7 @@ hand_dryer
 hand_dryers
 hand_cream
 hand_lotion
+hand_model
 hand-me-down
 hand-me-downs
 handed
@@ -15971,6 +16046,7 @@ heat_up
 heat_wave
 heave
 heaven
+heaven_on_earth
 heavenly
 heavens
 heaves
@@ -16323,6 +16399,7 @@ hit_it
 hit_job
 hit_list
 hitman
+hitmen
 hit-or-miss
 hits
 hit_single
@@ -16530,6 +16607,8 @@ honoree
 honorees
 honorific
 honoring
+honor_roll
+honor_code
 honor_system
 hooch
 hood
@@ -18311,6 +18390,7 @@ jailbreak
 jailbreaks
 jailbroken
 jailhouse
+jailtime
 jain
 jalapeno
 jalapenos
@@ -18494,6 +18574,7 @@ jokers
 jokester
 joking
 jolly
+Jolly_Roger
 jolt
 jolted
 jolting
@@ -19984,6 +20065,7 @@ log
 logs
 logarithm
 log_cabin
+log_cabins
 logger
 logging
 logic
@@ -21787,6 +21869,8 @@ models
 modeled
 modeling
 model_student
+model_train
+model_trains
 modem
 moderate
 moderating
@@ -23354,6 +23438,7 @@ offsides
 off-site
 offspring
 offstage
+on_stage
 off_the_beaten_track
 off the clock
 off-the-cuff
@@ -23686,6 +23771,7 @@ ordered
 ordering
 orderly
 order_of_magnitude
+order_up
 ordinance
 ordinary
 inordinate
@@ -24484,6 +24570,8 @@ pare
 pares
 pared
 parent
+parented
+parenting
 parental
 parents
 parent_company
@@ -25169,11 +25257,20 @@ personal
 personal_care
 personality
 personality_test
+personality_tests
 personalize
 personalized
 personally
 personal_pronoun
 personal_property
+personal_day
+personalize
+personalizes
+personalized
+personality_type
+personality_types
+personal_foul
+personal_best
 impersonate
 impersonates
 impersonated
@@ -25608,6 +25705,7 @@ pirated
 pirates
 pirate
 pirate_ship
+pirate_ships
 pirouette
 pirouetted
 pirouettes
@@ -25664,6 +25762,11 @@ pixie
 pixies
 pizza
 pizza_parlor
+pizza_stone
+pizza_stones
+pizza_ovens
+pizza_party
+pizza_parties
 pizzazz
 pizzeria
 placard
@@ -28969,6 +29072,8 @@ remedial
 remediate
 remediates
 remediated
+home_remedy
+home_remedies
 remedy
 remedies
 remedied
@@ -29562,6 +29667,7 @@ ribbit
 ribbon
 ribbons
 rib_cage
+rib-tickler
 ribs
 rice
 ricer
@@ -30457,6 +30563,8 @@ Sanskrit
 sans_serif
 Santa
 Santa_Claus
+santa_hat
+mall_santa
 sap
 saps
 sapient
@@ -30595,6 +30703,10 @@ scalene
 scaled_down
 scaled_up
 off_the_charts
+off_the_field
+off_the_court
+on_the_field
+on_the_court
 to_scale
 scaling
 scallion
@@ -31733,6 +31845,7 @@ Shirley_Temple
 shirt
 shirts
 shirtsleeve
+shirtfront
 shish
 shiver
 shivers
@@ -32164,6 +32277,8 @@ silken_tofu
 silkiness
 silk-lined
 Silk_Road
+silk_tie
+silk_pajamas
 silks
 silkscreen
 silkworm
@@ -32273,6 +32388,7 @@ sank
 sunk
 sun-kissed
 sunk_cost
+sunk_costs
 sinker
 sinkhole
 sink_in
@@ -32543,6 +32659,7 @@ slayer
 slaying
 slayed
 sleaze
+sleazeball
 sleazy
 sled
 sleds
@@ -32691,8 +32808,10 @@ slow_going
 slowing
 slowly
 slow_motion
+slow_motion_replay
 slo-mo
 slowpoke
+slowpokes
 slow-twitch
 sludge
 slug
@@ -32947,6 +33066,8 @@ snooty
 snooze
 snoozes
 snoozed
+snooze_button
+snoozefest
 snore
 snored
 snorer
@@ -36796,6 +36917,7 @@ tenderize
 tenderizes
 tenderized
 tenderloin
+tender_age
 tending
 tendinitis
 tendon
@@ -37459,6 +37581,10 @@ tiramisu
 tire
 tires
 tire_chain
+car_tire
+car_tires
+bike_tire
+bike_tires
 tired
 tireless
 tire_out
@@ -38070,6 +38196,7 @@ trash_talk
 trash-talks
 trash-talked
 trash-talker
+trash-talkers
 trauma
 traumatic
 traumatize
@@ -38934,6 +39061,8 @@ undertow
 underwater
 underway
 underwear
+underwear_model
+underwear_models
 underweight
 underwhelmed
 underwire
@@ -40637,6 +40766,8 @@ wedding_anniversary
 wedding_band
 wedding_bands
 wedding_cake
+wedding_crasher
+wedding_crashers
 wedding_day
 wedding_dress
 wedding_gift
@@ -41853,6 +41984,8 @@ offshore
 empty_stomach
 slam_dunk
 slam_dunks
+dunk_tank
+dunk_tanks
 alley-oop
 chalcedony
 hoedown
@@ -41880,3 +42013,61 @@ keep_time
 time_flies
 time_is_money
 say_cheese
+must-read
+top_dollar
+small_world
+big_band
+big_band_era
+big_data
+Big_Dipper
+Little_Dipper
+big_game
+small_game
+big_government
+big-hearted
+big_league
+big_mouth
+big_name
+big_names
+big_screen
+big-ticket
+big_toe
+big_rig
+bigwig
+bigwigs
+big-boned
+Bigfoot
+big_gun
+big_guns
+make_it_big
+makes_it_big
+made_it_big
+big_stick
+heavy_hitter
+top_gun
+jump_the_gun
+jumps_the_gun
+jumped_the_gun
+big_shot
+tractor-trailer
+change_hands
+changes_hands
+changed_hands
+Freudian_slip
+Freudian_slips
+whole_hog
+side-eye
+Capitol_Dome
+Jefferson_Memorial
+Lincoln_Memorial
+Washington_Monument
+Mount_Rushmore
+big_mouth
+infield
+outfield
+pool_toy
+pool_toys
+school_dance
+rat_race
+bad_hair_day
+good_hair_day
