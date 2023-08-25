@@ -63,7 +63,7 @@ Based on my own constructing experience, I'm not convinced adding additional tag
 If you find this dataset useful, I would appreciate if you acknowledged it! If you use this dataset for an academic publication, here is a BibTex entry:
 ```
 @misc{msfit-dataset,
-  title = {msfit-dataset},
+  title = {MsFit Crossword Dataset},
   author = {Nicole Feng},
   note = {https://github.com/nzfeng/crossword-dataset},
   year = {2022}
