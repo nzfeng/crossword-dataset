@@ -12738,6 +12738,7 @@ fat_cell
 fat_cells
 fat_chance
 fate
+fates
 fated
 fateful
 fat-free

@@ -19,7 +19,7 @@ I found that existing crossword and natural language processing (NLP) datasets w
 Since the number of words in the English language is on the order of 10^6, I concluded that manual curation was at least possible.
 
 ## Rules for inclusion
-What makes a "good" wordlist is kind of subjective. Personally, I wanted to make a "core" wordlist of common-knowledge American English entries, with as few "specific" entries as possible (i.e. names, places, pop culture references.) Here is how I decided to choose words:
+What makes a "good" wordlist is kind of subjective. Personally, I wanted to make a "core" wordlist of common-knowledge American English entries, with as few "specific" entries as possible (i.e. names, places, pop culture references.) Here is how I decided to choose words (very subjective!):
 
 * The central goal is to only include words and phrases that are often used in spoken and written American English. **Every single entry** in this dataset should be a usable crossword entry. If one is instead interested in using a dataset simply to help them determine if a grid is fillable using an auto-fill functionality, then they can just grab any uncurated wordlist. 
 * **Zero crossword-ese** and filler words. All entries should be able to hold their own as lively crossword entries, and ideally lend themselves well to creative clues.
@@ -37,15 +37,15 @@ What makes a "good" wordlist is kind of subjective. Personally, I wanted to make
 * I don't include words that have negative prefixes like "un-", "dis-", etc. unless they are just as commonly used as their positive counterpart (if not more common), and come with their own connotations and usage patterns. I.e., if you look the word up in the dictionary and it's simply defined as the negation of something, I don't include it.
 <!--* Similarly, try not to include words whose meanings are too evident from their components, such as "southbound." It would be hard to come up with clues. -->
 * No British-English spellings, or non-English entries except for those that are commonly used in American English ("vice versa", "pad thai", etc.) When American English puzzles rely on very particular words from other languages, dialects, or variant spellings, it feels cheap.
-* No offensive, insensitive, or particularly unpleasant entries. Try not to have entries relating to warfare, violence, weapons, chemical agents that have been been used in war, etc. I avoid "gross" entries pertaining to bodily fluids, bodily functions, crimes, abuse, etc. I try to avoid entries with negative connotations (i.e. RACISM, MANIFEST_DESTINY, SUICIDE, etc.) Even if their clues are benign, or they have benign alternate definitions (like SUICIDE), I think certain connotations are too negative to have visibility in crossword puzzles. 
+* No offensive, insensitive, or particularly unpleasant entries. I try not to have entries relating to warfare, violence, weapons, chemical agents that have been been used in war, etc. I avoid "gross" entries pertaining to bodily fluids, bodily functions, crimes, abuse, etc. I try to avoid entries with negative connotations (i.e. RACISM, MANIFEST_DESTINY, SUICIDE, etc.) Even if their clues are benign, or if they have benign alternate definitions (like SUICIDE), I think certain connotations are too negative to have visibility in crossword puzzles. 
 * I avoid places, except for maybe iconic American places. Good rule of thumb is whether this location would be known to a non-American.
-* Most of these rules basically just boil down to "Only include commonly-used words." Try to only include entries that are commonly used, roll off the tongue, can be standalone entries, encourage lively clues, and so on.
+* Most of these rules basically just boil down to "Only include commonly-used words." Try to only include entries that are commonly used, roll off the tongue, can be standalone entries, encourage lively clues, and so on. (Of course this is subjective.)
 
 There might be entries that I've accidentally included that don't adhere to my own rules. Conversely, I've almost certainly missed some good entries.
 
 ## Curation process
 * I started by manually filtering all \~147k lemmas in [WordNet](https://wordnet.princeton.edu/), which took me about a month. In the end, about 21% I deemed good enough to include in this dataset. 
-* I began filtering words from the [Broda wordlist](https://peterbroda.me/crosswords/wordlist/), which presents another \~320k unique entries after removing any words I've already looked at, and words with scores less than 50 (i.e. keeping only words that have been deemed above a certain level of quality, or are unscored.) I'm finding that the dataset is mostly not what I'm looking for, so I probably won't finish sifting through the Broda wordlist anytime soon.
+* I began filtering words from the [Broda wordlist](https://peterbroda.me/crosswords/wordlist/), which presented another \~320k unique entries after removing any words I've already looked at, and words with scores less than 50 (i.e. keeping only words that have been deemed above a certain level of quality, or are unscored.) I'm finding that the dataset is mostly not what I'm looking for, so I probably won't finish sifting through the Broda wordlist anytime soon.
 * I've also manually scraped relevant words & phrases from "[Updates to the OED](https://public.oed.com/updates/)" pages to obtain "fresh" entries.
 * I've copied a few vocab lists from ESL sites. 
 * [Desi Quintas](http://www.desiquintans.com/nounlist) has a hand-curated plain.txt list of 6801 common nouns in English; his curation criteria aligns really well with what makes a good crossword entry. I've gone through and removed British-English and words I don't like, resulting in \~6250 words. This added maybe another \~1000 entries unique from WordNet and some other filtered words I had at the time.
@@ -57,7 +57,7 @@ There might be entries that I've accidentally included that don't adhere to my o
 * I've also added any random words/phrases that came to me, or that I encounter in daily life that I thought would make a good entry.
 <!-- * TODO: Missed a lot of plurals in the earlier parts of the main list -->
 
-Based on my own constructing experience, I'm not convinced adding additional tags to entries (syntactic or semantic) will help.
+Based on my own constructing experience, I'm not convinced adding additional tags to entries (syntactic or semantic) would be helpful.
 
 ## Citation
 If you find this dataset useful, I would appreciate if you acknowledged it! If you use this dataset for an academic publication, here is a BibTex entry:
