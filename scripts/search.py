@@ -62,6 +62,4 @@ if __name__=="__main__":
 			print("Sorry, invalid value entered.")
 			continue
 		else:
-			break
-
-	print(findSchrodinger(search))
+			print(findSchrodinger(search))

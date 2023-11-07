@@ -1,6 +1,4 @@
-<!-- TODO: Adding missing plurals: left off at "base_pairs"
-
-TODO: Maybe split of phrases into a new file called `colloquial.txt`. -->
+<!-- TODO: Adding missing plurals: left off at "base_pairs" -->
 
 # MsFit Crossword Dataset
 This is **manually curated** dataset of \~42,000 words and phrases in **American English** that I have deemed suitable as entries for (American) word puzzles, primarily American-style crosswords. All entries are contained in a single alphabetized .txt file, with each entry occupying a separate line. I have left original punctuation in the entries if possible, for better human readability; standardization of the entries and further sorting is left to the user. A few Python scripts for standardization/sorting are located in `scripts`.
@@ -9,7 +7,7 @@ Any entry is included only if (1) it is commonly used in everyday American Engli
 
 This dataset is used in my [MsFit](https://github.com/nzfeng/MsFit) crossword construction software. Feel free to use this dataset for your own project; if for an academic publication, a BibTex entry is at the bottom of the README.
 
-In addition to the main word list `core.txt`, I've also started keeping track of an auxiliary word list `contemporary.txt` that indicates entries that are more likely to be "temporary" rather than core crossword entries: slang, brand names, app names, product names, popular media, etc. 
+In addition to the main word list `core.txt`, I've also started keeping track of an auxiliary word list `contemporary.txt` that indicates entries that are more likely to be "temporary" rather than core crossword entries: slang, popular media, etc. 
 
 ## Motivation
 I wanted to make crossword puzzles that fit my standards. I quickly realized that the main challenge of crossword construction, at any level of algorithmic involvement, is having a good bank of words to choose from. <!-- Most of the demand for human crossword constructors, after supplying any theme entries, seems to just be guiding construction towards having quality fills.-->
