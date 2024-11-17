@@ -886,6 +886,7 @@ alligator_pears
 alligator_wrench
 all-important
 all_in
+all-in-one
 all-inclusive
 alliterate
 alliterates
@@ -7451,12 +7452,16 @@ concerns
 concerned
 concert
 concert_hall
+concert_band
 concertmaster
+concertmasters
 concerto
+concertos
 concession
 concessions
 conch
 conch_shell
+conch_shells
 concierge
 concise
 conclude
@@ -8085,6 +8090,7 @@ cosmos
 cost
 costs
 co-star
+co-stars
 cost cutter
 cost_cutting
 cost-effective
@@ -8096,7 +8102,9 @@ costume
 costumes
 costumed
 costume designer
+costume designers
 costume party
+costume_parties
 cot
 cots
 cottage
@@ -8104,13 +8112,16 @@ cottages
 cottage_cheese
 cotton
 cotton_ball
+cotton_balls
 cotton_candy
 cotton_gin
 couch
 couches
 couched
 couch_potato
+couch_potatoes
 cougar
+cougars
 cough
 coughs
 coughed
@@ -8137,14 +8148,21 @@ counteracted
 counteractive
 counteracts
 counterargument
+counterarguments
 counterpoint
+counterpoints
 counteroffer
+counteroffers
+counteroffered
 counterattack
+counterattacks
+counterattacked
 counterbalance
 counterbalanced
 counterclockwise
 counterculture
 counterexample
+counterexamples
 counterfeit
 counterfeits
 counterfeited
@@ -8672,10 +8690,13 @@ crying
 cryogen
 cryogenic
 crypt
+crypts
 cryptic
 cryptid
 crystal
+crystals
 crystal_ball
+crystal_balls
 crystal_clear
 crystallize
 crystallizes
@@ -8685,7 +8706,9 @@ C-suite
 cub
 Cuban_sandwich
 cubby
+cubbies
 cubbyhole
+cubbyholes
 cube
 cubed
 cube_root
@@ -8698,6 +8721,7 @@ Cub_Scout
 Cub_Scouts
 cuckoo
 cuckoo_clock
+cuckoo_clocks
 cucumber
 cucumbers
 cud
@@ -8732,7 +8756,9 @@ cult classic
 cult classics
 cult following
 cultist
+cultists
 cultivar
+cultivars
 cultivate
 cultivates
 cultivated
@@ -13058,9 +13084,11 @@ fidgeted
 fidgety
 fiducial
 field
+fields
 field_day
 fielder
 field_goal
+field_goals
 field_guide
 field_hockey
 field_house
@@ -15554,6 +15582,8 @@ guesswork
 guest
 guests
 guest_bed
+guest_host
+guest_hosts
 guestbook
 guest_list
 guestroom
@@ -16490,6 +16520,10 @@ hipsters
 hire
 hires
 hired
+hired_gun
+hired_guns
+hired_goon
+hired_goons
 hiring
 hiring_freeze
 hiss
@@ -16708,6 +16742,7 @@ honeydew
 honeymoon
 honeymooner
 honeymooners
+honeymoon_suite
 honeypot
 honeysuckle
 honk
@@ -16837,6 +16872,8 @@ hostile
 hostility
 hot
 hot_air
+hot_air_balloon
+hot_air_balloons
 hotbed
 hots
 hot-blooded
@@ -17892,6 +17929,8 @@ ink_pad
 inkwell
 inky
 inland
+inland_sea
+inland_seas
 in-law
 in-laws
 inlay
@@ -18558,6 +18597,7 @@ jaywalker
 jazz
 jazz_band
 jazz_hands
+jazz_orchestra
 jazzy
 je_ne_sais_quoi
 jealous
@@ -18658,6 +18698,8 @@ job_hunters
 job-hunting
 job_interview
 job_interviews
+job-seeker
+job-seekers
 jobs
 jock
 jockey
@@ -19659,6 +19701,8 @@ lemongrass
 lemon_juice
 lemon_meringue
 lemon_tree
+lemon_wedge
+lemon_wedges
 lemon_zest
 lemur
 lemurs
@@ -20600,6 +20644,7 @@ macroscopic
 Mac
 mad
 madam
+madam_president
 madame
 madcap
 mad_cow
@@ -22728,13 +22773,16 @@ nasty
 nation
 national
 national_anthem
+national_anthems
 national_debt
 national_flag
+national_flags
 national_holiday
 national_holidays
 nationality
 national_park
 national_parks
+national_pride
 nationwide
 native
 natives
@@ -22867,6 +22915,7 @@ negligent
 negligible
 negotiable
 nonnegotiable
+nonnegotiables
 negotiate
 negotiates
 negotiated
@@ -26068,6 +26117,9 @@ play_down
 plays_down
 played_down
 played
+play_god
+plays_god
+played_god
 play_money
 play_out
 plays_out
@@ -28324,7 +28376,9 @@ candy_corn
 candy-striped
 red_tape
 album_cover
+album_covers
 cover_album
+cover_albums
 street_food
 mineral_water
 railroad
@@ -30296,14 +30350,19 @@ roughage
 rough-and-tumble
 roughen
 rough-house
+rough-houses
+rough-housed
+rough-housing
 roughly
 rough_up
 roughed_up
 roulette
 roulette_wheel
+roulette_wheels
 round
 rounds
 roundabout
+roundabouts
 round_down
 rounds_down
 rounded_down
@@ -30577,6 +30636,7 @@ saddle-sore
 sadness
 sad_sack
 safari
+safari_hat
 safe
 safebreaker
 safecracker
@@ -32167,6 +32227,8 @@ shortlist
 short-lived
 shortly
 short_order
+short-order_cook
+short-order_cooks
 short_ribs
 shorts
 shortsighted
@@ -32851,6 +32913,7 @@ slapped
 slapdash
 slaphappy
 slapshot
+slapshots
 slapstick
 slash
 slashes
@@ -34561,6 +34624,8 @@ stately
 statement
 state_of_mind
 state_of_the_art
+state_flag
+state_flags
 state_school
 states'_rights
 state_trooper
@@ -36729,6 +36794,8 @@ tantrum
 tantrums
 tap
 tap_dance
+tap_dances
+tap_danced
 tap_dancer
 tap_dancers
 tap_dancing
@@ -37481,6 +37548,9 @@ three
 threes
 three-piece
 three-piece_suit
+three-pointer
+three-pointers
+three-point_shooting
 three-point_turn
 three-pronged
 three-ring-binder
@@ -39342,6 +39412,8 @@ uneasy
 unemotional
 unemployed
 unemployment
+unemployment_line
+unemployment_benefits
 unencumbered
 unending
 unenviable
@@ -42313,3 +42385,11 @@ ollie
 ollies
 unibrow
 hot_yoga
+layup
+layups
+auto_loan
+auto_loans
+home_loan
+home_loans
+student_loan
+student_loans
