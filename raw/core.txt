@@ -3115,6 +3115,7 @@ behavior
 behaviors
 behavioral
 behemoth
+behemoths
 behest
 behind
 behold
@@ -3141,6 +3142,7 @@ belches
 belching
 belfry
 Belgian_waffle
+Belgian_waffles
 belie
 belies
 belied
@@ -3164,6 +3166,8 @@ bell-bottom
 bell-bottomed
 bell-bottoms
 bell_curve
+bell_curves
+bell_lap
 bellhop
 bellicose
 belligerent
@@ -4869,6 +4873,7 @@ bumblebee
 bumbling
 bummer
 bum_out
+bum_rap
 bump
 bumps
 bumped
@@ -12678,6 +12683,7 @@ falls
 fell
 fallacious
 fallacy
+fallacies
 fall_apart
 fell_apart
 falls_apart
@@ -16935,13 +16941,16 @@ hotly
 hot_mess
 hot_mic
 hot_plate
+hot_plates
 hot_pot
 hot_potato
 hot_rod
 hot_rods
 hot_sauce
+hot_sauces
 hot_seat
 hotshot
+hotshots
 hot_spot
 hot_spring
 hot_springs
@@ -20237,17 +20246,21 @@ locked_up
 locker
 lockers
 locker_room
+locker_rooms
 locket
 lock_in
 locking
 lock out
 lock screen
+lock screens
 locks down
 locksmith
+locksmiths
 locks out
 lockstep
 locomotion
 locomotive
+locomotives
 locust
 locusts
 lodge
@@ -20261,13 +20274,17 @@ lofty
 log
 logs
 logarithm
+logarithms
 log_cabin
 log_cabins
 logger
 logging
 logic
 logical
+logical_fallacy
+logical_fallacies
 logic_gate
+logic_gates
 log-in
 logistics
 logjam
@@ -20285,6 +20302,7 @@ logged_out
 logs
 loin
 loincloth
+loincloths
 loins
 loiter
 loiters
@@ -22895,6 +22913,7 @@ necessity
 necessities
 neck
 necks
+neck_rub
 neck_and_neck
 neck_brace
 necked
@@ -26638,6 +26657,7 @@ portmanteau
 portrait
 portraits
 portraitist
+portraiture
 portray
 portrays
 portrayal
@@ -27205,9 +27225,13 @@ primates
 prime
 primes
 primed
+prime_meridian
 prime_minister
+prime_mover
+prime_movers
 prime_number
 prime_numbers
+prime_real_estate
 primer
 primer_coat
 primeval
@@ -32307,6 +32331,8 @@ show
 showed
 show_biz
 showboat
+showboats
+showboated
 showboating
 show_business
 showcase
@@ -33553,8 +33579,10 @@ soft_pedal
 soft_pretzel
 soft_pretzels
 soft-shell_crab
+soft-shell_crabs
 soft-spoken
 soft_spot
+soft_spots
 software
 soggy
 soil
@@ -33782,6 +33810,7 @@ spaceflight
 space_heater
 space_opera
 space_program
+space_race
 spaceship
 space_shuttle
 space_station
@@ -33983,35 +34012,47 @@ spellbinds
 spellbinding
 spellbound
 spell_checker
+spell_checkers
 speller
 spelling
 spelling_bee
+spelling_bees
 spell_out
 spells_out
 spelled_out
 spelt
 spelunk
+spelunks
+spelunked
 spelunker
+spelunkers
 spend
 spends
 spent
 spender
+spenders
 big_spender
+big_spenders
 spending
 spending_money
 spending_spree
+spending_sprees
 spends
 disposable_income
 spendthrift
 spent
 sperm
 sperm_bank
+sperm_banks
 sperm_cell
 sperm_cells
 sperm_count
 spew
+spews
+spewed
 SPF
 sphere
+spheres
 spherical
 sphinx
 spick-and-span
@@ -34189,8 +34230,10 @@ sports_fans
 sportsmanship
 sports_medicine
 sports_page
+sports_pages
 sportswear
 sportswriter
+sportswriters
 sporty
 spot
 spotless
@@ -37962,11 +38005,14 @@ toasts
 toasted
 toaster
 toaster_oven
+toaster_ovens
 toasters
 toasting
 toastmaster
+toastmasters
 tobacco
 toboggan
+toboggans
 to_boot
 to_date
 today
@@ -38235,6 +38281,7 @@ tours
 toured
 on_tour
 tour_bus
+tour_buss
 tour_de_force
 tour_guide
 tour_guides
@@ -38294,6 +38341,8 @@ toxins
 toy
 toyed
 toying
+toy_drive
+toy_drives
 toy_poodle
 toys
 toyshop
@@ -39887,6 +39936,7 @@ upstaged
 upstairs
 upstanding
 upstart
+upstarts
 upstate
 upstream
 uptake
@@ -40354,7 +40404,9 @@ victories
 victorious
 victory
 victory_dance
+victory_dances
 victory_lap
+victory_laps
 victuals
 video
 video call
@@ -40380,6 +40432,7 @@ viewpoint
 viewpoints
 vigil
 candlelight_vigil
+candlelight_vigils
 vigilance
 vigilant
 vigilante
@@ -42033,8 +42086,10 @@ yap
 yaps
 yard
 yardage
-yard sale
+yard_sale
+yard_sales
 yardstick
+yardsticks
 yarn
 yarns
 yawn
