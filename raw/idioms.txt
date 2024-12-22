@@ -1,4 +1,7 @@
 old_as_time
+pave_the_way
+paves_the_way
+paved_the_way
 prime_the_pump
 scratch_that
 seal_of_approval
