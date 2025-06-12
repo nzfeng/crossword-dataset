@@ -10,7 +10,7 @@ This dataset is used in my [MsFit](https://github.com/nzfeng/MsFit) crossword co
 In addition to the main word list `core.txt`, I've also started keeping track of an auxiliary word list `contemporary.txt` that indicates entries that are more likely to be "temporary" rather than core crossword entries: slang, popular media, etc. 
 
 ## Motivation
-I wanted to make crossword puzzles that fit my standards. I quickly realized that the main challenge of crossword construction, at any level of algorithmic involvement, is having a good bank of words to choose from. <!-- Most of the demand for human crossword constructors, after supplying any theme entries, seems to just be guiding construction towards having quality fills.-->
+I wanted to make crossword puzzles that fit my standards. I realized that a main challenge of crossword construction, separate of algorithmic involvement, is having a good bank of words to choose from. <!-- Most of the demand for human crossword constructors, after supplying any theme entries, seems to just be guiding construction towards having quality fills.-->
 
 I found that existing crossword and natural language processing (NLP) datasets weren't strict enough by the standards I was seeking. Crossword datasets are usually formed by scraping indiscriminately from other datasets, including existing puzzles, which contain entries I wanted to avoid. Meanwhile, the criteria for acceptable crossword entries is too niche for any NLP datasets to be applicable. What makes a "good" crossword entry is also subject to taste, and can be more subtle than, e.g. selecting for part-of-speech or corpus frequency.
 
@@ -48,7 +48,7 @@ There might be entries that I've accidentally included that don't adhere to my o
 * I've copied a few vocab lists from ESL sites. 
 * [Desi Quintas](http://www.desiquintans.com/nounlist) has a hand-curated plain.txt list of 6801 common nouns in English; their curation criteria aligns really well with what makes a good crossword entry. I've gone through and removed British-English and words I don't like, resulting in \~6250 words. This added maybe another \~1000 entries unique from WordNet and some other filtered words I had at the time.
 * I've filtered a list of 10,000+ nouns on [richardharringtonblog.com](https://richardharringtonblog.com/list-of-nouns). First I removed any entries that I had already filtered, which removed the vast majority; I then manually filtered the remaining, which left \~380 entries.
-* I went through letter pairs that are legal at the beginning of an English word, typed them into the OED, and grabbed any good-quality headwords/common derivatives/lemmas/subentries that appear in the auto-complete. 
+* I went through letter pairs that are legal at the beginning of an English word, typed them into the OED, and grabbed any good-quality headwords, common derivatives, lemmas, and subentries that appear in the auto-complete. 
 <!-- TODO: finish going through all letter pairs -->
 * I manually went through the entire list of entries I had at this point -- to remove bad entries I had missed the first time around, and to add compelling derivatives and phrases based on the entries I had collected. 
 <!-- Especially with less free time around this time, this step took another 2 months or so. -->

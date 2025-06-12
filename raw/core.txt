@@ -432,7 +432,6 @@ add-on
 address
 addressed
 addresses
-ade
 adept
 adequate
 ADHD
@@ -839,6 +838,8 @@ aliens
 alienate
 alienates
 alienated
+alien_encounter
+alien_abduction
 alight
 align
 aligns
@@ -994,6 +995,8 @@ altering
 alternate
 alternative
 alternatives
+alternate_ending
+alternate_endings
 although
 altitude
 altitude_sickness
@@ -1221,6 +1224,8 @@ animals
 animal_cracker
 animal_crackers
 animal_kingdom
+animal_lover
+animal_lovers
 animal_products
 animate
 animates
@@ -1659,6 +1664,8 @@ arms
 arms-length
 armspan
 arms race
+armsleeve
+armsleeves
 arm swing
 arm-twist
 arm-twists
@@ -1751,6 +1758,7 @@ artifices
 artificial
 artificial_intelligence
 artisan
+artisanal
 artisans
 artist
 artists
@@ -1953,6 +1961,7 @@ at-bat
 at_bay
 at_best
 A-team
+ate
 ate_crow
 ate_in
 ate_out
@@ -2571,6 +2580,7 @@ ballet_master
 ball_game
 ball_gown
 ball_gowns
+ball_pit
 ballistic
 balloon
 balloons
@@ -3654,6 +3664,7 @@ blank_check
 blanket
 blankets
 blanketed
+blanket_approval
 blank_space
 blare
 blares
@@ -3774,6 +3785,7 @@ blockaded
 blockading
 blockage
 blockbuster
+blockbusters
 blocked
 blocker
 blocking
@@ -5145,8 +5157,11 @@ cabin_fever
 cabins
 cable
 cable_car
+cable_cars
 cables
 cable_stitch
+cable_stitches
+cable_knit
 cable tie
 caboodle
 caboose
@@ -5278,6 +5293,7 @@ Camelot
 cameo
 camera
 cameras
+camera_crew
 camera_lens
 cameraman
 came together
@@ -5677,6 +5693,7 @@ catacombs
 catalog
 catalogs
 catalyst
+cat_person
 cat_and_mouse
 catapult
 catapults
@@ -5864,7 +5881,9 @@ ceramics
 ceramist
 cereal
 cereal_bowl
+cereal_bowls
 cereal_box
+cereal_boxes
 cerebellum
 cerebral
 ceremonial
@@ -5897,12 +5916,16 @@ chain
 chained
 chain_mail
 chain_reaction
+chain_reactions
 chains
 chainsaw
+chainsaws
 chain_store
+chain_stores
 chair
 chaired
 chairlift
+chairlifts
 chairs
 chaise_longue
 chalet
@@ -5911,6 +5934,8 @@ chalk
 chalkboard
 chalk_dust
 chalk_up
+chalks_up
+chalked_up
 chalky
 challah
 challenge
@@ -5918,12 +5943,17 @@ challenges
 challenger
 challenging
 chamber
+chambers
 chambered
 chamber_music
 chamberpot
+chamberpots
 chambers
 chameleon
+chameleons
 chamfer
+chamfers
+chamfered
 chamomile
 champ
 champs
@@ -5931,11 +5961,14 @@ champagne
 champion
 champions
 championship
+championships
 chance
 chanced
 chancellor
 chances
+chance_encounter
 chandelier
+chandeliers
 change
 changes
 changed
@@ -6376,6 +6409,7 @@ Christmas_card
 Christmas_carol
 Christmas_gift
 Christmastime
+Christmas_spirit
 Christmas_tree
 chromatic
 chrome
@@ -7006,18 +7040,24 @@ coffee_can
 coffee_cup
 coffee_cups
 coffee_filter
+coffee_filters
 coffee_grounds
 coffeehouse
-coffee maker
+coffee_maker
 coffee_mug
+coffee_mugs
 coffeepot
 coffee_shop
+coffee_shops
 coffee_table
 coffee-table_book
 coffee_urn
+coffee_urns
 coffers
 coffin
+coffins
 cofounder
+cofounders
 cog
 cogent
 cognate
@@ -7050,7 +7090,11 @@ coin_collection
 coin-op
 coin-operated
 coins
+coin_flip
+coin_flips
 coin_slot
+coin_slots
+coin_toss
 coke
 cola
 colander
@@ -8546,7 +8590,9 @@ crevices
 crew
 crew_cut
 crewmate
+crewmates
 crew_member
+crew_members
 crew_neck
 crib
 crick
@@ -8560,8 +8606,12 @@ town_crier
 cries
 crime
 criminal
+criminals
 criminalize
+criminalizes
+criminalized
 criminal_profile
+criminal_profiles
 crimp
 crimped
 crimps
@@ -9206,6 +9256,7 @@ deaden
 dead_end
 dead_heat
 dead_language
+dead_last
 deadlift
 deadlifted
 deadlifts
@@ -10075,6 +10126,8 @@ dipstick
 dire
 direct
 directed
+direct_deposit
+direct_deposits
 direct_flight
 directing
 direction
@@ -10160,6 +10213,7 @@ discloses
 disclosed
 disclosure
 disco
+disco_ball
 discography
 discolor
 discoloration
@@ -10552,6 +10606,7 @@ dogleg
 dogma
 dogmatic
 do-gooder
+dog_person
 dog_pound
 dogs
 dogsled
@@ -11944,7 +11999,7 @@ entrusts
 entrusted
 entry
 entries
-entry_level
+entry-level
 enumerate
 enumerates
 enumerated
@@ -12086,6 +12141,7 @@ escapade
 escapades
 escape
 escaped
+escape_clause
 escape_hatch
 escape_room
 escapes
@@ -12480,6 +12536,8 @@ expressed
 expresses
 expression
 expressive
+express_lane
+express_lanes
 express_mail
 expressway
 expulsion
@@ -13237,8 +13295,11 @@ filet
 filet_mignon
 filial
 filibuster
+filibusters
+filibustered
 filing
 filing_cabinet
+filing_cabinets
 fill
 fills
 filled
@@ -13251,6 +13312,7 @@ film
 films
 filmed
 film_festival
+film_festivals
 filming
 filter
 filters
@@ -13266,6 +13328,7 @@ final
 final_cut
 finale
 final_exam
+final_exams
 finalist
 finalists
 finalize
@@ -13823,8 +13886,11 @@ foliage
 folk
 folk_dance
 folklore
+folk_medicine
 folk_music
 folks
+folksinger
+folksingers
 folk_song
 folksy
 folktale
@@ -14064,6 +14130,7 @@ fortunate
 fortunately
 fortune
 fortune_cookie
+fortune_cookies
 fortune_teller
 forty_winks
 forum
@@ -14194,6 +14261,7 @@ freeloaders
 free_love
 free_lunch
 freely
+free_market
 freemium
 free_press
 free_range
@@ -14204,6 +14272,7 @@ freethinker
 free_throw
 free_throws
 free_time
+free_trade
 freeway
 free_weights
 freewheeling
@@ -16163,6 +16232,7 @@ haunted_house
 haunting
 haunts
 haute_couture
+haute_cuisine
 have
 haves
 down_pat
@@ -16355,6 +16425,8 @@ Helen_Keller
 helical
 helicopter
 helicopters
+helipad
+helipads
 helium
 helix
 hell
@@ -16808,6 +16880,7 @@ homeopath
 homeopathic
 homeostasis
 homeowner
+homeowners
 homepage
 home_phone_number
 home_plate
@@ -17355,6 +17428,7 @@ ice-skater
 ice-skaters
 ice_skating
 skating_rink
+ice_rink
 icetray
 ice_water
 icicle
@@ -17410,6 +17484,8 @@ Iditarod
 idle
 idles
 idled
+idle_threat
+idle_threats
 idling
 idly
 idol
@@ -18061,9 +18137,12 @@ inn
 innards
 innate
 inner
+inner_child
 inner_circle
 inner_city
-inner ear
+inner_ear
+inner_sanctum
+inner_speech
 inning
 innings
 innkeeper
@@ -19360,6 +19439,7 @@ krypton
 kudos
 kumquat
 kung_fu
+Kwanzaa
 lab
 lab_coat
 lab_coats
@@ -19800,6 +19880,10 @@ legato
 leg_curl
 leg_curls
 leg_room
+leg_sleeve
+leg_sleeves
+leg_warmer
+leg_warmers
 legend
 legends
 legendary
@@ -20058,6 +20142,7 @@ light pollution
 lights
 lights, camera, action
 light_show
+light_sleeper
 lights-out
 lightspeed
 light_up
@@ -20291,7 +20376,8 @@ living
 living_dead
 living_death
 living_large
-living proof
+living_legend
+living_proof
 living_room
 living_statue
 living_wage
@@ -21176,6 +21262,8 @@ market_economy
 marketer
 marketplace
 market_price
+market_rate
+going_rate
 marking
 marksman
 Mark_Twain
@@ -21443,11 +21531,13 @@ meddler
 meddlesome
 meddling
 media
+media_darling
 media_firestorm
 firestorm
 media literacy
 median
 media_sensation
+media_training
 mediate
 mediates
 mediated
@@ -22169,6 +22259,7 @@ moat
 mob
 mobs
 mobbed
+mob_rule
 mobile
 mobile_home
 mobile_homes
@@ -22426,6 +22517,7 @@ mops
 mop_up
 moral
 morals
+moral_compass
 morale
 morality
 morals
@@ -23380,6 +23472,7 @@ nondescript
 nondisclosure
 none
 nonexistent
+none_the_wiser
 nonfat
 nonfiction
 non-issue
@@ -23840,8 +23933,10 @@ oils
 oil_change
 oil_changes
 oil_company
+oil_companies
 oiled
 oil_paint
+oil_paints
 oil_painting
 oil_rig
 tanker
@@ -24834,8 +24929,10 @@ panhandlers
 panic
 panics
 panic_attack
+panic_attacks
 panic_button
 panicked
+panic_room
 panicky
 panic-stricken
 panoply
@@ -25492,6 +25589,8 @@ pen-pals
 pension
 pensioner
 pensioners
+pension_fund
+pension_funds
 pensive
 pent
 pentagon
@@ -25581,6 +25680,7 @@ period
 periodic
 periodical
 periodic_table
+period_drama
 period_piece
 peripheral
 peripherals
@@ -26520,6 +26620,8 @@ pointed
 pointedly
 pointer
 pointers
+point_guard
+point_guards
 pointillism
 pointillist
 pointless
@@ -27396,13 +27498,21 @@ principled
 print
 prints
 printed
+printed_circuit
+printed_circuits
 printable
 printer
 printers
+print_edition
+printer-friendly
 printing
 printing_press
+printing_presses
+print_preview
 printout
+printouts
 print_shop
+print_shops
 prion
 prions
 prior
@@ -27481,6 +27591,7 @@ processing
 procession
 processor
 processors
+pro-am
 pro-choice
 proclaim
 proclaims
@@ -28518,6 +28629,7 @@ radioactive_waste
 radio_antenna
 radio_broadcast
 radio-controlled
+radio_drama
 radio_frequency
 radiologist
 radio_receiver
@@ -29599,6 +29711,7 @@ renters
 rent-free
 renting
 rent_out
+rent_strike
 renunciate
 renunciation
 rep
@@ -30984,8 +31097,6 @@ sanctitude
 sanctity
 sanctuary
 sanctum
-inner_sanctum
-inner_circle
 sand
 sands
 sanded
@@ -31066,11 +31177,11 @@ sated
 satellite
 satellites
 satellite_radio
-satellite dish
+satellite_dish
 satellite_image
 satellite_images
-satellite link
-satellite TV
+satellite_link
+satellite_TV
 satiate
 satiates
 satiated
@@ -31602,6 +31713,8 @@ seaside
 sea_slug
 sea_snake
 sea_snakes
+sea_turtle
+sea_turtles
 season
 seasons
 seasonable
@@ -32461,6 +32574,7 @@ shorthand
 shortlist
 short-lived
 shortly
+short_notice
 short_order
 short-order_cook
 short-order_cooks
@@ -33226,6 +33340,7 @@ slew
 slice
 slices
 sliced
+sliced_bread
 slicer
 slicing
 slick
@@ -33361,6 +33476,7 @@ smacked
 smacking
 small
 smaller
+small_business
 small_fortune
 small_fry
 small-minded
@@ -34035,6 +34151,11 @@ sparred
 spare
 spares
 spared
+spare_no_expense
+spares_no_expense
+spared_no_expense
+spare_part
+spare_parts
 spareribs
 spare_time
 spare_tire
@@ -34355,6 +34476,9 @@ spoil
 spoils
 spoilage
 spoiled
+spoil_rotten
+spoils_rotten
+spoiled_rotten
 spoiler
 spoilers
 spoiling
@@ -38002,6 +38126,7 @@ tidbits
 tiddlywinks
 tide
 tides
+tidepool
 tide_over
 tidemark
 tidings
@@ -39305,6 +39430,7 @@ tutorials
 tutu
 tux
 tuxedo
+tuxedo_cat
 TV_ad
 TV_ads
 tv-antenna
@@ -42552,7 +42678,6 @@ scratch-resistant
 water-resistant
 on_deck
 star-struck
-escape_clause
 handle_with_care
 take_care
 undead

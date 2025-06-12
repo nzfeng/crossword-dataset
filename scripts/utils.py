@@ -26,7 +26,7 @@ def depunctuate(string):
 	newWord = ''.join(i for i in string if i in WANTED_CHARS)
 	return newWord
 
-def removeUnwantedChars(string, unwanted_chars="_'.,/;[]\-=`~_+{}|:<>?()@#$%^&* "):
+def removeUnwantedChars(string, unwanted_chars="_'.,/;[]\\-=`~_+{}|:<>?()@#$%^&* "):
 	'''
 	Remove all instances of each char in <unwanted_chars> from <word>.
 	<unwanted_chars> can be either a string or a list.
@@ -137,7 +137,8 @@ def saveMsFitWordlists():
 	This is a MsFit-specific function.
 	Outputs the .txt files for MsFit, separated by wordlength and in standardized form.
 	'''
-	files = glob.glob('../*.txt', recursive = True)
+	# files = glob.glob('../*.txt', recursive = True) # this no longer seems to work in newer versions of Python
+	files = glob.glob('../raw/*.txt', recursive = True)
 
 	all_words = []
 	for file in files:
