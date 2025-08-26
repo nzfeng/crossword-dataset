@@ -306,3 +306,5 @@ added_sugar
 pleasant_surprise
 national_television
 national_tv
+time_sink
+time_suck

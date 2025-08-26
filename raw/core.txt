@@ -5981,14 +5981,15 @@ change of scene
 change of scenery
 change-up
 changing
-changing table
+changing_table
+changing_tables
 channel
 channeled
 channels
 channel-surf
 chant
 chanted
-Chanter
+chanter
 chanterelle
 chanting
 chants
@@ -6009,14 +6010,18 @@ chars
 charred
 character
 character_actor
-character arc
+character_actors
+character_arc
+character_arcs
 character-driven
 characteristic
+characteristics
 characters
-character witness
+character_witness
 charade
 charades
 charcoal
+charcoals
 charcuterie
 chard
 charge
@@ -6024,7 +6029,9 @@ charged
 charger
 charges
 chariot
+chariots
 chariot_race
+chariot_races
 charisma
 charismatic
 charitable
@@ -6347,6 +6354,11 @@ chocolate_truffles
 choice
 choices
 choir
+choirboy
+choirboys
+choirgirl
+choirgirls
+choirmaster
 choke
 chokes
 choked
@@ -12840,11 +12852,14 @@ falloff
 fallout
 fall over
 fell_over
-fell_through
 fallow
 falls
 fall_short
+falls_short
+fell_short
 fall_through
+falls_through
+fell_through
 false
 false_alarm
 false_bottom
@@ -23490,9 +23505,14 @@ nonsensical
 non_sequitur
 nonsmoker
 nonsmokers
+nonsmoking
 nonspeaking
 nonstandard
 nonstick
+nonstick_pan
+nonstick_pans
+nonstick_cookware
+nonstick_spray
 nonstop
 nontoxic
 nontraditional
@@ -24145,6 +24165,8 @@ open_sesame
 open-source
 opera
 opera_house
+operagoer
+operagoers
 operand
 operate
 operates
@@ -24157,7 +24179,9 @@ operation
 operational
 operations
 operative
+operatives
 operator
+operators
 opine
 opines
 opined
@@ -34483,6 +34507,7 @@ spoiler
 spoilers
 spoiling
 spoke
+spokes
 spoken
 spoken_language
 spoken_word
@@ -34490,6 +34515,18 @@ spokesman
 spokesmen
 spokesperson
 spokeswoman
+speak_for
+speaks_for
+spoke_for
+speak_out
+speaks_out
+spoke_out
+speak_up
+speaks_up
+spoke_up
+speak_volumes
+speaks_volumes
+spoke_volumes
 sponge
 sponges
 sponged
@@ -35460,6 +35497,7 @@ storylines
 storyteller
 storytellers
 story-telling
+story_arc
 story_time
 stove
 stoves
