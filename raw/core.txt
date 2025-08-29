@@ -775,6 +775,8 @@ airplanes
 air_pollution
 airport
 airports
+airport_shuttle
+airport_shuttles
 air_pump
 air_quality
 air-ship
@@ -2586,6 +2588,8 @@ balloon
 balloons
 ballooned
 ballooning
+balloon_animal
+balloon_animals
 ballot
 ballots
 ballot_box
@@ -5295,6 +5299,7 @@ camera
 cameras
 camera_crew
 camera_lens
+camera_ready
 cameraman
 came together
 came up short
@@ -10969,6 +10974,7 @@ dressings
 dressing_room
 dress_rehearsal
 dress_shirt
+dress_shirts
 dribble
 dribbles
 dribbled
@@ -25983,6 +25989,7 @@ photon
 photons
 photo_op
 photosensitive
+photo_shoot
 photoshop
 photoshops
 photoshopped
@@ -31131,6 +31138,8 @@ sandbags
 sandbagged
 sandbar
 sandbox
+sandcastle
+sandcastles
 sand_dollar
 sand_dollars
 sand_dune
@@ -34346,6 +34355,8 @@ speller
 spelling
 spelling_bee
 spelling_bees
+spelling_error
+spelling_errors
 spell_out
 spells_out
 spelled_out
@@ -38629,6 +38640,8 @@ touch-and-go
 touch_base
 touchdown
 touchdowns
+touchdown_pass
+touchdown_passes
 touched
 touches
 touching

@@ -9,3 +9,5 @@ stamp_of_approval
 take_the_reins
 takes_the_reins
 took_the_reins
+a_drop_in_the_bucket
+the_next_big_thing
