@@ -940,6 +940,7 @@ allspice
 all_that
 all_the_way
 all-time
+all_season
 all_told
 allude
 alludes
@@ -5715,6 +5716,7 @@ catches
 caught
 catchall
 catcher
+catch_air
 catch feelings
 catch_fire
 catches_fire
@@ -6421,10 +6423,16 @@ christened
 christening
 Christmas
 Christmas_album
+Christmas_albums
 Christmas_bells
 Christmas_card
+Christmas_cards
 Christmas_carol
+Christmas_carols
+Christmas_cookie
+Christmas_cookies
 Christmas_gift
+Christmas_gifts
 Christmastime
 Christmas_spirit
 Christmas_tree
@@ -12394,6 +12402,7 @@ executes
 executing
 execution
 executive
+executive_branch
 executor
 exemplar
 exemplary
@@ -16735,6 +16744,8 @@ historian
 historic
 historical
 history
+history_buff
+history_buffs
 hit
 hits
 hit-and-run
@@ -20723,6 +20734,7 @@ lousy
 love
 love_affair
 lovebird
+lovebirds
 love_child
 loved
 loving
@@ -22728,6 +22740,8 @@ moves_up
 moved_up
 movie
 movies
+movie_buff
+movie_buffs
 moviegoer
 moviegoers
 movie_star
@@ -22850,6 +22864,8 @@ murmuring
 muscle
 muscles
 muscled
+muscle_car
+muscle_cars
 muscle_memory
 muscular
 musculature
@@ -32782,6 +32798,7 @@ Siberian
 sibilant
 sibling
 siblings
+sibling_rivalry
 sic
 sick
 sickbag
@@ -32922,9 +32939,9 @@ silent
 silent auction
 silent killer
 silently
-silent mode
+silent_mode
 silent_movie
-silent treatment
+silent_treatment
 silhouette
 silhouettes
 silica
